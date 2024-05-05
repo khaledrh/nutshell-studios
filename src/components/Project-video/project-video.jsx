@@ -2,16 +2,17 @@ import React from "react";
 import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
 
-const ProjectVideo = ({ projectVideoDate }) => {
+const ProjectVideo = ({ projectVideoData }) => {
   console.clear()
   const [isOpen, setOpen] = React.useState(false);
   return (
     <section>
       <div className="container-fluid">
+        <p>{projectVideoData.videoLink}</p>
         <div
           className="video-wrapper section-padding bg-img parallaxie halign"
           style={{
-            backgroundImage: `url(${projectVideoDate.projectHeaderImage})`,
+            backgroundImage: `url(${projectVideoData.projectHeaderImage})`,
           }}
           data-overlay-dark="4"
         >
@@ -22,7 +23,7 @@ const ProjectVideo = ({ projectVideoDate }) => {
                 channel="vimeo"
                 autoplay
                 isOpen={isOpen}
-                videoId="942792132"
+                videoId={projectVideoData.videoLink}
                 onClose={() => setOpen(false)}
               />
             )}
@@ -42,7 +43,7 @@ const ProjectVideo = ({ projectVideoDate }) => {
             </a>
           </div>
          <div id="overlay" className=" text-left pl-50 pt-50 caption" >
-            <h1>{projectVideoDate.title.big}</h1>
+            <h1>{projectVideoData.title.big}</h1>
           </div>
         </div>
         

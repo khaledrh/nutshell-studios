@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
 import appData from "../../data/app.json";
@@ -45,7 +44,7 @@ const Navbar = ({ lr, nr, theme }) => {
           <ul className="navbar-nav ml-auto">
             
             <li className="nav-item">
-              <Link href={`/homepage/home1-dark`}>
+              <Link href="/homepage/home1-dark">
                 <a className="nav-link">Home</a>
               </Link>
             </li>
@@ -60,16 +59,16 @@ const Navbar = ({ lr, nr, theme }) => {
                 About
               </span>
               <div className="dropdown-menu">
-                <Link href={`/about/about-dark`}>
+                <Link href="/about/about-dark">
                   <a className="dropdown-item">About</a>
                 </Link>
-                <Link href={``}>
+                <Link href="/">
                   <a className="dropdown-item">Services</a>
                 </Link>
-                <Link href={``}>
+                <Link href="/">
                   <a className="dropdown-item">Our Team</a>
                 </Link>
-                <Link href={``}>
+                <Link href="/">
                   <a className="dropdown-item">Our Studio</a>
                 </Link>
                 
@@ -86,22 +85,22 @@ const Navbar = ({ lr, nr, theme }) => {
                 Works
               </span>
               <div className="dropdown-menu">
-                <Link href={`/works2/works2-dark`}>
+                <Link href="/works2/works2-dark">
                   <a className="dropdown-item">Portfolio</a>
                 </Link>
-                <Link href={`/showcase/showcase-dark`}>
+                <Link href="/showcase/showcase-dark">
                   <a className="dropdown-item">Showreels</a>
                 </Link>
                 
               </div>
             </li>
             <li className="nav-item">
-              <Link href={`/career/career-dark`}>
+              <Link href="/career/career-dark">
                 <a className="nav-link">Career</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href={`/contact/contact-dark`}>
+              <Link href="/contact/contact-dark">
                 <a className="nav-link">Contact</a>
               </Link>
             </li>
