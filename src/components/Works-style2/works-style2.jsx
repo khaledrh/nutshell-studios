@@ -3,7 +3,7 @@ import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
 
-const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
+const WorksStyle2 = ({ projectData, grid, hideFilter, filterPosition }) => {
   React.useEffect(() => {
     setTimeout(() => {
       initIsotope();
@@ -130,7 +130,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Create With Creatives</h6>
+                <h6>{projectData[0].title.big}</h6>
                 <span>
                   <Link href="">Design</Link>,
                   <Link href="">WordPress</Link>
@@ -151,13 +151,13 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                    <img src={projectData[1].projectHeaderImage} alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>Energies of Love</h6>
+                <h6>{projectData[1].title.big}</h6>
                 <span>
                   <Link href="">Design</Link>,
                   <Link href="">WordPress</Link>

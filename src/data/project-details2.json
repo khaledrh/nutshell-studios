@@ -1,73 +1,152 @@
-{
-  "id": 1,
-  "title": { "small": "Paymob", "big": "Paymob" },
-  "clientURLLink": "#",
-  "projectHeaderImage": "/img/portfolio/project2/prog-1.jpg",
-  "videoLink": "https://vimeo.com/127203262",
-  "clientURLName": "Envato.com",
-  "date": "6 August 2022",
-  "categories": [
-    {
-      "id": 1,
-      "name": "Web Design",
-      "link": "#"
-    },
-    {
-      "id": 2,
-      "name": "WordPress",
-      "link": "#"
-    }
-  ],
-  "tags": [
-    {
-      "id": 1,
-      "name": "Minimal",
-      "link": "#"
-    },
-    {
-      "id": 2,
-      "name": "Modern",
-      "link": "#"
-    },
-    {
-      "id": 3,
-      "name": "Design",
-      "link": "#"
-    }
-  ],
-  "credit": {
-    "content": "",
-    "spmList": [
+[
+  {
+    "id": 1,
+    "title": { "small": "Paymob", "big": "Paymob" },
+    "clientURLLink": "#",
+    "projectHeaderImage": "/img/portfolio/project2/prog-1.jpg",
+    "videoLink": "https://vimeo.com/127203262",
+    "clientURLName": "Envato.com",
+    "date": "6 August 2022",
+    "categories": [
       {
         "id": 1,
-        "name": "Written and directed by: El hamba & Sherif Doss"
+        "name": "TVC",
+        "link": "#"
       },
       {
         "id": 2,
-        "name": "DOP: Kamal Samy"
+        "name": "WordPress",
+        "link": "#"
+      }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
       },
       {
         "id": 3,
-        "name": "Production House: Kay-Oh Productions"
-      },
-      {
-        "id": 4,
-        "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
-      },
-      {
-        "id": 5,
-        "name": "Post Producer Supervisor: Amr Junior"
-      },
-      {
-        "id": 6,
-        "name": "Post Producer: Nada Kenawy"
+        "name": "Design",
+        "link": "#"
       }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Written and directed by: El hamba & Sherif Doss"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Kamal Samy"
+        },
+        {
+          "id": 3,
+          "name": "Production House: Kay-Oh Productions"
+        },
+        {
+          "id": 4,
+          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
+        },
+        {
+          "id": 5,
+          "name": "Post Producer Supervisor: Amr Junior"
+        },
+        {
+          "id": 6,
+          "name": "Post Producer: Nada Kenawy"
+        }
+      ]
+    },
+    "gallery": [
+      "/img/portfolio/project2/1.png",
+      "/img/portfolio/project2/2.png",
+      "/img/portfolio/project2/3.png",
+      "/img/portfolio/project2/4.png"
     ]
   },
-  "gallery": [
-    "/img/portfolio/project2/1.png",
-    "/img/portfolio/project2/2.png",
-    "/img/portfolio/project2/3.png",
-    "/img/portfolio/project2/4.png"
-  ]
-}
+  {
+    "id": 2,
+    "title": { "small": "Paymob", "big": "Nomob" },
+    "clientURLLink": "#",
+    "projectHeaderImage": "/img/portfolio/project2/prog-1.jpg",
+    "videoLink": "https://vimeo.com/127203262",
+    "clientURLName": "Envato.com",
+    "date": "6 August 2022",
+    "categories": [
+      {
+        "id": 1,
+        "name": "TVC",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "WordPress",
+        "link": "#"
+      }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Written and directed by: El hamba & Sherif Doss"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Kamal Samy"
+        },
+        {
+          "id": 3,
+          "name": "Production House: Kay-Oh Productions"
+        },
+        {
+          "id": 4,
+          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
+        },
+        {
+          "id": 5,
+          "name": "Post Producer Supervisor: Amr Junior"
+        },
+        {
+          "id": 6,
+          "name": "Post Producer: Nada Kenawy"
+        }
+      ]
+    },
+    "gallery": [
+      "/img/portfolio/project2/1.png",
+      "/img/portfolio/project2/2.png",
+      "/img/portfolio/project2/3.png",
+      "/img/portfolio/project2/4.png"
+    ]
+  }
+  
+  
+  
+  
+]
