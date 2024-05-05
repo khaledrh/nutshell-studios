@@ -35,8 +35,8 @@ const ProjectDetails2Dark = () => {
       <Navbar nr={navbarRef} lr={logoRef} />
       <div className="wrapper">
         <ProjectVideo projectVideoDate={ProjectDate} />
-        <ProjectDescription projectDescriptionData={ProjectDate.description} />
-        <ProjectGallery />
+        <ProjectIntroduction projectIntroductionData={ProjectDate.credit} />
+        <ProjectGallery projectVideoDate={ProjectDate}/>
         <Footer />
       </div>
     </DarkTheme>

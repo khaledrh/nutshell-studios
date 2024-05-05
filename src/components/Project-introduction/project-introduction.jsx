@@ -8,18 +8,18 @@ const ProjectIntroduction = ({ projectIntroductionData }) => {
           <div className="col-lg-3 col-md-4">
             <div className="htit">
               <h4>
-                <span>01 </span> Introduction
+                <span>◦◦ </span> Credit
               </h4>
             </div>
           </div>
           <div className="col-lg-8 offset-lg-1 col-md-8">
             <div className="text js-scroll__content">
-              <p className="extra-text">
+              <p className="extra-text mb-10">
                 {projectIntroductionData.content}
               </p>
-              <ul className="smp-list mt-30">
+              <ul className="smp-list">
                 {projectIntroductionData.spmList.map((item) => (
-                  <li key={item.id}>{item.name}</li>
+                  <ul key={item.id}>{item.name}</ul>
                 ))}
               </ul>
             </div>

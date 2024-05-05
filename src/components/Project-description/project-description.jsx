@@ -8,7 +8,7 @@ const ProjectDescription = ({ projectDescriptionData }) => {
           <div className="col-lg-3 col-md-4">
             <div className="htit">
               <h4>
-                <span>◦◦ </span> Description
+                <span>◦◦ </span> Credit
               </h4>
             </div>
           </div>

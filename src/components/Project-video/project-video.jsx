@@ -22,7 +22,7 @@ const ProjectVideo = ({ projectVideoDate }) => {
                 channel="vimeo"
                 autoplay
                 isOpen={isOpen}
-                videoId="127203262"
+                videoId="942792132"
                 onClose={() => setOpen(false)}
               />
             )}
@@ -42,7 +42,7 @@ const ProjectVideo = ({ projectVideoDate }) => {
             </a>
           </div>
          <div id="overlay" className=" text-left pl-50 pt-50 caption" >
-            <h1>Digital Consulting Agency</h1>
+            <h1>{projectVideoDate.title.big}</h1>
           </div>
         </div>
         
