@@ -78,6 +78,7 @@ const ContactForm = () => {
                           name="department"
                           placeholder="Department Selection"
                           required="required"
+                          className = "sel"
                           as = "select"
                 
                         >

@@ -24,7 +24,7 @@ const renderGridItem = (item, grid) => (
         </Link>
       </div>
       <div className="cont">
-        <h6>{item.title.big}</h6>
+        <h6>{item.title.first}</h6>
         <span>
           <Link href="">Design</Link>,
           <Link href="">WordPress</Link>

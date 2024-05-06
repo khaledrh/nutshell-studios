@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": { "small": "Paymob", "big": "Paymob" },
+    "title": { "first": "Paymob", "second": "Where's my money" },
     "clientURLLink": "#",
     "projectHeaderImage": "/img/portfolio/project2/prog-1.jpg",
     "videoLink": "942792132",
@@ -74,7 +74,7 @@
   },
   {
     "id": 2,
-    "title": { "small": "Paymob", "big": "Nomob" },
+    "title": { "first": "Monsoon", "second": "in the city" },
     "clientURLLink": "#",
     "projectHeaderImage": "/img/portfolio/project2/prog-1.jpg",
     "videoLink": "127203262",

@@ -8,7 +8,6 @@ const ProjectVideo = ({ projectVideoData }) => {
   return (
     <section>
       <div className="container-fluid">
-        <p>{projectVideoData.videoLink}</p>
         <div
           className="video-wrapper section-padding bg-img parallaxie halign"
           style={{
@@ -43,7 +42,7 @@ const ProjectVideo = ({ projectVideoData }) => {
             </a>
           </div>
          <div id="overlay" className=" text-left pl-50 pt-50 caption" >
-            <h1>{projectVideoData.title.big}</h1>
+            <h1>{projectVideoData.title.first}</h1>
           </div>
         </div>
         
