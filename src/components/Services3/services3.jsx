@@ -7,7 +7,7 @@ const Services3 = () => {
     cardMouseEffect(document.querySelectorAll(".feat .items"));
   }, []);
   return (
-    <section className="feat sub-bg section-padding">
+    <section id="services" className="feat sub-bg section-padding">
       <div className="container">
         <div className="row">
           <div className="col-lg-8 col-md-10">

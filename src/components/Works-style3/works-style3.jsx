@@ -10,7 +10,7 @@ const WorksStyle3 = () => {
     }, 1000);
   }, []);
   return (
-    <section className="portfolio-cr section-ptb pb-50">
+    <section id="studio" className="portfolio-cr section-ptb pb-50">
       <div className="container">
         <div className="row">
           <div className="row justify-content-center">

@@ -62,13 +62,13 @@ const Navbar = ({ lr, nr, theme }) => {
                 <Link href="/about/about-dark">
                   <a className="dropdown-item">About</a>
                 </Link>
-                <Link href="/">
+                <Link href="/about/about-dark/#services">
                   <a className="dropdown-item">Services</a>
                 </Link>
-                <Link href="/">
+                <Link href="/about/about-dark/#team">
                   <a className="dropdown-item">Our Team</a>
                 </Link>
-                <Link href="/">
+                <Link href="/about/about-dark/#studio">
                   <a className="dropdown-item">Our Studio</a>
                 </Link>
                 

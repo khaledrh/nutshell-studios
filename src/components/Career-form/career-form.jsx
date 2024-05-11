@@ -154,9 +154,9 @@ const ContactForm = () => {
                 >
                   or Send Email :                 </p>
                   <p
-                  className="wow txt words chars text-limegreen fz-14 line-height-05 splitting animated"
+                  className="wow txt words chars text-limegreen fz-14 line-height-1 splitting animated"
                 >
-                  or Send Email :                 </p>
+                  Thanks for submitting! </p>
             </div>
           </div>
         </div>
