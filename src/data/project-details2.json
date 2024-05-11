@@ -1536,6 +1536,76 @@
       "/img/portfolio/project2/3.png",
       "/img/portfolio/project2/4.png"
     ]
+  },{
+    "id": 26,
+    "title": { "first": "Ma2oltesh la2", "second": "" },
+    "projectHeaderImage": "/img/portfolio/project2/26/Ma2oltesh_la2.jpg",
+    "videoLink": "943688452",
+    "date": "6 August 2022",
+    "categories": [
+      {
+        "id": 1,
+        "name": "TVC",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "WordPress",
+        "link": "#"
+      }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Written and directed by: El hamba & Sherif Doss"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Kamal Samy"
+        },
+        {
+          "id": 3,
+          "name": "Production House: Kay-Oh Productions"
+        },
+        {
+          "id": 4,
+          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
+        },
+        {
+          "id": 5,
+          "name": "Post Producer Supervisor: Amr Junior"
+        },
+        {
+          "id": 6,
+          "name": "Post Producer: Nada Kenawy"
+        }
+      ]
+    },
+    "gallery": [
+      "/img/portfolio/project2/1.png",
+      "/img/portfolio/project2/2.png",
+      "/img/portfolio/project2/3.png",
+      "/img/portfolio/project2/4.png"
+    ]
   }
   
 ]
