@@ -17,7 +17,7 @@ const ContactForm = () => {
   }
   const sendMessage = (ms) => new Promise((r) => setTimeout(r, ms));
   return (
-    <section className="contact section-padding">
+    <section className="contact head-pt">
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
@@ -25,12 +25,12 @@ const ContactForm = () => {
               <h1 className="fw-700 color-font ">Join Us.</h1>
               <Split>
                 <p
-                  className="wow txt mb-20 words chars splitting animated"
+                  className="wow txt mb-20 words chars text-white splitting animated"
                   data-splitting
                 >
                   if you want to be part of huge talented vfx team and you can deliver high end quality.
                 </p>
-                <p className="wow txt mb-20 words chars splitting animated" data-splitting>
+                <p className="wow txt mb-20 words chars text-white splitting animated" data-splitting>
                   we are always looking for great canditates
                 </p>
               </Split>
@@ -149,6 +149,14 @@ const ContactForm = () => {
                   </Form>
                 )}
               </Formik>
+              <p
+                  className="wow txt mt-20 words chars text-white splitting animated"
+                >
+                  or Send Email :                 </p>
+                  <p
+                  className="wow txt words chars text-limegreen fz-14 line-height-05 splitting animated"
+                >
+                  or Send Email :                 </p>
             </div>
           </div>
         </div>

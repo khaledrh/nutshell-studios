@@ -5,18 +5,7 @@
     "projectHeaderImage": "/img/portfolio/project2/1/prog-1.jpg",
     "videoLink": "942792132",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -76,18 +65,7 @@
     "projectHeaderImage": "/img/portfolio/project2/2/Weyay_Bank.jpg",
     "videoLink": "943701907",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -127,18 +105,7 @@
     "projectHeaderImage": "/img/portfolio/project2/3/Orange_Cash.jpg",
     "videoLink": "943696168",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -178,18 +145,7 @@
     "projectHeaderImage": "/img/portfolio/project2/4/CocaCola_Demo.jpg",
     "videoLink": "943700539",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -228,18 +184,7 @@
     "projectHeaderImage": "/img/portfolio/project2/5/Money_Fellows.jpg",
     "videoLink": "943694368",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -299,18 +244,7 @@
     "projectHeaderImage": "/img/portfolio/project2/6/ChipsyXKFC.jpg",
     "videoLink": "943684776",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -350,18 +284,7 @@
     "projectHeaderImage": "/img/portfolio/project2/7/Domty.jpg",
     "videoLink": "943020523",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -401,18 +324,7 @@
     "projectHeaderImage": "/img/portfolio/project2/8/NBE.jpg",
     "videoLink": "943017298",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -472,18 +384,7 @@
     "projectHeaderImage": "/img/portfolio/project2/9/Vodafone_Black_Friday.jpg",
     "videoLink": "943015173",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -523,18 +424,7 @@
     "projectHeaderImage": "/img/portfolio/project2/10/MOSCOW_Msh_Shayfak.jpg",
     "videoLink": "943694445",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -574,18 +464,7 @@
     "projectHeaderImage": "/img/portfolio/project2/11/NBE_The_Cafe.jpg",
     "videoLink": "943694933",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -625,18 +504,7 @@
     "projectHeaderImage": "/img/portfolio/project2/12/ELAF_Ramadan_2024.jpg",
     "videoLink": "943686250",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -676,18 +544,7 @@
     "projectHeaderImage": "/img/portfolio/project2/13/NBE_Security.jpg",
     "videoLink": "943023878",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -727,18 +584,7 @@
     "projectHeaderImage": "/img/portfolio/project2/14/KFH_Zaheb.jpg",
     "videoLink": "943025165",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -777,18 +623,7 @@
     "projectHeaderImage": "/img/portfolio/project2/15/Blue_Vert.jpg",
     "videoLink": "Blue Vert",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -848,18 +683,7 @@
     "projectHeaderImage": "/img/portfolio/project2/16/AUB_Egypt.jpg",
     "videoLink": "943025296",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -899,18 +723,7 @@
     "projectHeaderImage": "/img/portfolio/project2/17/Breadfast.jpg",
     "videoLink": "943026342",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -950,18 +763,7 @@
     "projectHeaderImage": "/img/portfolio/project2/18/NBE_Summer_Campaign_2023.jpg",
     "videoLink": "943695812",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1021,18 +823,7 @@
     "projectHeaderImage": "/img/portfolio/project2/19/Mcdonald’s_App.jpg",
     "videoLink": "943018265",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1113,18 +904,7 @@
     "projectHeaderImage": "/img/portfolio/project2/20/WePay.jpg",
     "videoLink": "943016036",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1192,18 +972,7 @@
     "projectHeaderImage": "/img/portfolio/project2/21/NBE_125.jpg",
     "videoLink": "943017565",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1244,18 +1013,7 @@
     "projectHeaderImage": "/img/portfolio/project2/22/DATA_INSIGHTS.jpg",
     "videoLink": "943013660",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1319,18 +1077,7 @@
     "projectHeaderImage": "/img/portfolio/project2/23/Vodafone_World_Cup.jpg",
     "videoLink": "942980619",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1398,18 +1145,7 @@
     "projectHeaderImage": "/img/portfolio/project2/24/Misk_Foundation.jpg",
     "videoLink": "942982666",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1472,18 +1208,7 @@
     "projectHeaderImage": "/img/portfolio/project2/25/Nice_One.jpg",
     "videoLink": "943698449",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1542,18 +1267,7 @@
     "projectHeaderImage": "/img/portfolio/project2/26/Ma2oltesh_la2.jpg",
     "videoLink": "943688452",
     "date": "6 August 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "TVC",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "WordPress",
-        "link": "#"
-      }
-    ],
+    "categories":  "music",
     "tags": [
       {
         "id": 1,

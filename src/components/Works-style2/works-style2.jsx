@@ -12,7 +12,7 @@ const renderGridItem = (item, grid) => (
           : grid === 2
           ? "col-md-6"
           : "col-12"
-      } items brand wow fadeInUp`}
+      } items ${item.categories} wow fadeInUp`}
       data-wow-delay=".4s"
     >
       <div className="item-img">
@@ -77,11 +77,11 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 <span data-filter="*" className="active">
                   All
                 </span>
-                <span data-filter=".brand">TVC</span>
-                <span data-filter=".web">Film</span>
-                <span data-filter=".graphic">Series</span>
-                <span data-filter=".blah">MusicVideo</span>
-                <span data-filter=".blahblah">Program</span>
+                <span data-filter=".tvc">TVC</span>
+                <span data-filter=".film">Film</span>
+                <span data-filter=".series">Series</span>
+                <span data-filter=".music">MusicVideo</span>
+                <span data-filter=".program">Program</span>
               </div>
             </div>
           )}

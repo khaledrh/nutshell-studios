@@ -408,6 +408,10 @@ span:hover {
   color: #000;
 }
 
+.text-limegreen {
+  color: #8FCA8F;
+}
+
 .text-extra-light-gray {
   color: #b7b7b7;
 }
@@ -505,6 +509,10 @@ span:hover {
 /*-------------------------------------------------------
 					line-height
 -------------------------------------------------------*/
+.line-height-05 {
+  line-height: 0.5px;
+}
+
 .line-height-10 {
   line-height: 10px;
 }
