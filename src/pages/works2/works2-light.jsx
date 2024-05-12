@@ -5,7 +5,8 @@ import Footer from "../../components/Footer/footer";
 import WorksHeader from "../../components/Works-header/works-header";
 import WorksStyle2 from "../../components/Works-style2/works-style2";
 
-const Works2Light = () => {
+
+const WorksDark = () => {
   const fixedHeader = React.useRef(null);
   const MainContent = React.useRef(null);
   const navbarRef = React.useRef(null);
@@ -43,7 +44,7 @@ const Works2Light = () => {
           <div className="gradient-circle two"></div>
         </div>
       </div>
-      <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
+      <Navbar nr={navbarRef} lr={logoRef} />
       <WorksHeader sliderRef={fixedHeader} />
       <div ref={MainContent} className="main-content">
         <WorksStyle2 grid={3} filterPosition="center" />
@@ -53,4 +54,4 @@ const Works2Light = () => {
   );
 };
 
-export default Works2Light;
+export default WorksDark;

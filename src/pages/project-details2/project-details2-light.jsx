@@ -2,16 +2,12 @@ import React from "react";
 import Navbar from "../../components/Navbar/navbar";
 import Footer from "../../components/Footer/footer";
 import LightTheme from "../../layouts/Light";
-import ProjectDetails2Header from "../../components/Project-details2-header/project-details2-header";
-import ProjectDate from "../../data/project-details2.json";
+import ProjectData from "../../data/project-details2.json";
 import ProjectIntroduction from "../../components/Project-introduction/project-introduction";
 import ProjectGallery from "../../components/Project-gallery/project-gallery";
-import ProjectDescription from "../../components/Project-description/project-description";
 import ProjectVideo from "../../components/Project-video/project-video";
-import NextProject from "../../components/Next-project/next-project";
-import appData from '../../data/app.json'
 
-const ProjectDetails2Light = () => {
+const ProjectDetails2Dark = ({projectId} ) => {
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);
 
@@ -26,27 +22,39 @@ const ProjectDetails2Light = () => {
     window.addEventListener("scroll", () => {
       if (window.pageYOffset > 300) {
         navbar.classList.add("nav-scroll");
-        logo.setAttribute("src", appData.darkLogo);
       } else {
         navbar.classList.remove("nav-scroll");
-        logo.setAttribute("src", appData.lightLogo);
       }
     });
   }, [navbarRef]);
   return (
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
-      <div className="wrapper">
-        <ProjectDetails2Header projectHeaderData={ProjectDate} />
-        <ProjectIntroduction projectIntroductionData={ProjectDate.intro} />
-        <ProjectGallery />
-        <ProjectDescription projectDescriptionData={ProjectDate.description} />
-        <ProjectVideo projectVideoDate={ProjectDate} />
-        <NextProject />
-        <Footer />
+        <div className="wrapper">
+          <ProjectVideo projectVideoData={ProjectData[projectId-1]} />
+          <ProjectIntroduction projectIntroductionData={ProjectData[projectId-1].credit} />
+          <ProjectGallery projectGalleryData={ProjectData[projectId-1].gallery}/>
+          <Footer />
       </div>
     </LightTheme>
   );
 };
 
-export default ProjectDetails2Light;
+export async function getServerSideProps(context) {
+  // Access the query parameter from the context object
+  const { id } = context.query;
+
+  // Fetch project details based on the ID
+  // Replace this with your actual data fetching logic
+  const projectId = id || 'default-project-id';
+
+  // Return the props to the component
+  return {
+    props: {
+      projectId,
+    },
+  };
+}
+
+// Export the page component
+export default ProjectDetails2Dark;
