@@ -1,5 +1,5 @@
 import React from 'react'
-import funFactDate from '../../data/sections/fun-fact.json'
+import funFactDate from '../../data/sections/home-fun-fact.json'
 import Split from "../Split";
 import CountUp from 'react-countup';
 import VisibilitySensor from "react-visibility-sensor";
@@ -19,7 +19,7 @@ const Numbers = () => {
                   FUN FACTS
                 </h6>
                 <h3 className="wow color-font">
-                  Pleasure in the job puts perfection in the work.
+                Tough times don’t last, tough teams do.
                 </h3>
               </div>
             </div>

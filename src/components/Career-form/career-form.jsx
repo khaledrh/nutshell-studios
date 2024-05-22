@@ -1,7 +1,6 @@
 import React from "react";
-import ContactFromDate from "../../data/sections/form-info.json";
 import Split from "../Split";
-import AboutInfo1Data from "../../data/sections/about-info1.json";
+import CareerInfoData from "../../data/sections/career-info.json";
 import { Formik, Form, Field } from "formik";
 
 const ContactForm = () => {
@@ -22,18 +21,21 @@ const ContactForm = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="form md-mb50">
-              <h1 className="fw-700 color-font ">Join Us.</h1>
-              <Split>
-                <p
-                  className="wow txt mb-20 words chars text-white splitting animated"
-                  data-splitting
-                >
-                  if you want to be part of huge talented vfx team and you can deliver high end quality.
-                </p>
-                <p className="wow txt mb-20 words chars text-white splitting animated" data-splitting>
-                  we are always looking for great canditates
-                </p>
-              </Split>
+              <h1 className="fw-700 color-font ">{CareerInfoData.title}</h1>
+              <div className="text">
+                <Split>
+                  <p
+                    className="wow txt mb-20 words chars text-white splitting animated"
+                    data-splitting
+                  >
+                    {CareerInfoData.paragraph1}
+                  </p>
+                  <p className="wow txt mb-20 words chars text-white splitting animated" data-splitting>
+                    {CareerInfoData.paragraph2}
+                  </p>
+                </Split>
+              </div>
+              
 
               <Formik
                 initialValues={{

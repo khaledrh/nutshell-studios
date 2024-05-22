@@ -1,6 +1,6 @@
 import React from "react";
 import Split from "../Split";
-import AboutInfo1Data from "../../data/sections/about-info1.json";
+import AboutInfoData from "../../data/sections/about-info.json";
 
 const AboutIntro = () => {
   return (
@@ -9,7 +9,7 @@ const AboutIntro = () => {
         <div className="row">
           <div className="col-lg-3 col-md-4">
             <div className="htit sm-mb30">
-              <h4>{AboutInfo1Data.title}</h4>
+              <h4>{AboutInfoData.title}</h4>
             </div>
           </div>
           <div className="col-lg-8 offset-lg-1 col-md-8">
@@ -19,10 +19,10 @@ const AboutIntro = () => {
                   className="wow txt mb-20 words chars splitting"
                   data-splitting
                 >
-                  {AboutInfo1Data.paragraph1}
+                  {AboutInfoData.paragraph1}
                 </p>
                 <p className="wow txt mb-20 words chars splitting" data-splitting>
-                  {AboutInfo1Data.paragraph2}
+                  {AboutInfoData.paragraph2}
                 </p>
               </Split>
             </div>

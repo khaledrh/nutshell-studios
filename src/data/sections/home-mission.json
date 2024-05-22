@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 28,
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "OUR", "second": "MISSION." },
+  "content": {
+    "first": "We acknowledge storytelling as the most important tool you may relay on to build authentic brand identity.",
+    "second": "Our mission is to help you complete the visual storytelling by applying out of the box creative solutions."
+  },
+  "smallTitle": "About Us"
+}

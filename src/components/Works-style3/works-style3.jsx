@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
 
 const WorksStyle3 = () => {
@@ -20,7 +19,7 @@ const WorksStyle3 = () => {
                   Our Studio
                 </h6>
                 <h3 className="wow color-font">
-                  An original team of creators designers &amp; dreamers.
+                An original team of decision makers, creators, designers &amp; dreamers.
                 </h3>
               </div>
             </div>
@@ -54,7 +53,7 @@ const WorksStyle3 = () => {
 
             <div
               className="items width2 brand wow fadeInUp"
-              data-wow-delay=".4s"
+              data-wow-delay=".6s"
             >
               <div className="item-img">
 
@@ -69,7 +68,7 @@ const WorksStyle3 = () => {
 
             <div
               className="items width2 graphic wow fadeInUp"
-              data-wow-delay=".4s"
+              data-wow-delay=".6s"
             >
               <div className="item-img">
 

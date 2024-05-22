@@ -73,9 +73,7 @@ const VideoWithTestimonials = () => {
                 >
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                    Nutshell is a life savior, we had a problem with our last project, with a very short notice nutshell knowing the risks didn’t only deliver on time but also a high end results. 
                     </p>
                     <div className="info">
                       <div className="img">

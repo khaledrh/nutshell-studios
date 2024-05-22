@@ -18,8 +18,8 @@ const loadingPace = () => {
   window.addEventListener("load", () => {
     document.querySelector("#preloader").classList.add("isdone");
     document.querySelector(".loading").classList.add("isdone");
-    if (document.querySelector('.pace-running.pace-running')) {
-      document.querySelector('.pace-running.pace-running').classList.remove('pace-running')
+    if (document.querySelector('.pace-running')) {
+      document.querySelector('.pace-running').classList.remove('pace-running')
     }
   });
 };

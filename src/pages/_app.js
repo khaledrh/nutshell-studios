@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
         <title>NutShell-Studios</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
-      <Cursor />
+      {/* <Cursor /> */}
       <LoadingScreen />
       <Component {...pageProps} />
       <ScrollToTop />

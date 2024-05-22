@@ -1,8 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Split from "../Split";
-import Link from "next/link";
-import AboutUs3date from "../../data/sections/about-us3.json";
+import MissionData from "../../data/sections/home-mission.json";
 import { thumparallax, thumparallaxDown } from "../../common/thumparallax";
 
 const AboutUs3 = () => {
@@ -27,13 +26,13 @@ const AboutUs3 = () => {
                     >
                       <img
                         className="thumparallax-down"
-                        src={AboutUs3date.image1}
+                        src={MissionData.image1}
                         alt=""
                       />
                     </div>
                     <div className="exp">
-                      <h2 className="nmb-font">{AboutUs3date.exp.nmb}</h2>
-                      <h6>{AboutUs3date.exp.name}</h6>
+                      <h2 className="nmb-font">{MissionData.exp.nmb}</h2>
+                      <h6>{MissionData.exp.name}</h6>
                     </div>
                   </div>
                 </div>
@@ -45,7 +44,7 @@ const AboutUs3 = () => {
                     >
                       <img
                         className="thumparallax"
-                        src={AboutUs3date.image2}
+                        src={MissionData.image2}
                         alt=""
                       />
                     </div>
@@ -58,13 +57,13 @@ const AboutUs3 = () => {
             <div className="content">
               <Split>
                 <h4 className="wow words chars splitting" data-splitting>
-                  {AboutUs3date.title.first} <br /> {AboutUs3date.title.second}
+                  {MissionData.title.first} <br /> {MissionData.title.second}
                 </h4>
               </Split>
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  {AboutUs3date.content.first} <br />
-                  {AboutUs3date.content.second}
+                  {MissionData.content.first} <br />
+                  {MissionData.content.second}
                 </p>
               </Split>
               <br />

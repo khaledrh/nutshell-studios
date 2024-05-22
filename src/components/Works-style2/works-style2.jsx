@@ -12,18 +12,19 @@ const renderGridItem = (item, grid) => (
           : grid === 2
           ? "col-md-6"
           : "col-12"
-      } items ${item.categories} wow fadeInUp`}
+      } items ${item.categories} wow `}
       data-wow-delay=".4s"
+      data-wow-offset="900"
     >
       <div className="item-img">
-      <Link href={`/project-details2/project-details2-dark?id=${item.id}`}>
+      <Link href={`/project?id=${item.id}`}>
           <a className="imago wow">
             <img src={item.projectHeaderImage} alt="image" />
             <div className="item-img-overlay"></div>
           </a>
         </Link>
       </div>
-      <div className="cont">
+      <div className="cont wow">
         <h6>{item.title.first}</h6>
         <span>
           <Link href="">Design</Link>,
@@ -37,7 +38,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
   React.useEffect(() => {
     setTimeout(() => {
       initIsotope();
-    }, 1000);
+    }, 200);
   }, []);
   return (
     <section
@@ -50,7 +51,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
           <div className="row justify-content-center">
             <div className="col-lg-8 col-md-10">
               <div className="sec-head text-center">
-                <h6 className="wow fadeIn" data-wow-delay=".5s">
+                <h6 className="wow fadeIn" data-wow-delay=".5s" >
                   Portfolio
                 </h6>
                 <h3 className="wow color-font">
@@ -85,17 +86,14 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               </div>
             </div>
           )}
-          <div className="gallery full-width">
+          
+        </div>
+        <div className="row gallery full-width">
               {projectData.map((item) =>
                 renderGridItem(item, grid)
 
               )}
           </div>
-
-          
-
-          
-        </div>
       </div>
     </section>
   );

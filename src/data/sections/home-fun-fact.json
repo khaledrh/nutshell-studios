@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "content": "Team members who are committed to their tasks.",
+    "value": "2400"
+},
+{
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "content": "Projects delivered on time.",
+    "value": "133"
+},
+{
+    "id": 3,
+    "icon": "pe-7s-medal",
+    "content": "Global projects from all around the world.",
+    "value": "46"
+}
+]

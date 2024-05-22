@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import cardMouseEffect from "../../common/cardMouseEffect";
 
 const Services3 = () => {
@@ -16,7 +15,7 @@ const Services3 = () => {
                 Best Services
               </h6>
               <h3 className="wow color-font">
-                We help to create strategies, design &amp; development.
+              We imagine, execute  &amp; deliver.
               </h3>
             </div>
           </div>
@@ -29,8 +28,7 @@ const Services3 = () => {
               </span>
               <h5>Motion Graphic</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+                We create the relationship between movement and design elements.
               </p>
             </div>
           </div>
@@ -53,8 +51,7 @@ const Services3 = () => {
               </span>
               <h5>CGI</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+                CGI leverages computer graphics to produce both 2D and 3D content for print, screen, film, television, video games, simulations, and virtual reality. 
               </p>
             </div>
           </div>
@@ -65,8 +62,7 @@ const Services3 = () => {
               </span>
               <h5>2D</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+                From concept to composition you can relay on us.
               </p>
             </div>
           </div>
