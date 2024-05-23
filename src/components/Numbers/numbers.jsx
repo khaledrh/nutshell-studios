@@ -19,7 +19,7 @@ const Numbers = () => {
                   FUN FACTS
                 </h6>
                 <h3 className="wow color-font">
-                Tough times don’t last, tough teams do.
+                Tough Times Don’t Last, <br></br> Tough Teams Do.
                 </h3>
               </div>
             </div>

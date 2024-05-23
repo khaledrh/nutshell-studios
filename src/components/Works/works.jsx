@@ -1,5 +1,6 @@
 import React from "react";
 import worksData from "../../data/sections/works.json";
+import work2Data from "../../data/project-details.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 // import Swiper core and required modules
 import SwiperCore, { Autoplay, Pagination, Navigation } from "swiper";
@@ -69,7 +70,7 @@ const Works = () => {
                 }}
               >
                 {pageLoaded &&
-                  worksData.map((item, index) => (
+                  work2Data.map((item) => (
                     <SwiperSlide className="swiper-slide" key={item.id}>
                       <div
                         className="content wow noraidus fadeInUp"
@@ -78,18 +79,18 @@ const Works = () => {
                         <div
                           className="item-img bg-img wow imago"
                           style={{
-                            backgroundImage: `url(${item.image})`,
+                            backgroundImage: `url(${item.projectHeaderImage})`,
                           }}
                         />
                         <div className="cont">
                           <h6 className="color-font">
-                            <a href="#0">{item.title}</a>
+                            <a href="#0">{item.categories}</a>
                           </h6>
                           <h4>
                             <Link
-                              href={`/project-details2/project-details2-dark`}
+                              href={`/project?id=${item.id}`}
                             >
-                              {item.secTex}
+                              {item.title.first}
                             </Link>
                           </h4>
                         </div>

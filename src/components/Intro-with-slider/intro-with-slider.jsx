@@ -3,7 +3,7 @@ import introData from "../../data/sections/home-intro.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
-
+import BackgroundVideo from 'react-background-video-player';
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
@@ -87,6 +87,7 @@ const IntroWithSlider = ({ sliderRef }) => {
                   style={{ backgroundImage: `url(${slide.image})` }}
                   data-overlay-dark="6"
                 >
+                  <BackgroundVideo  src="..\img\26.mp4" loop autoPlay/>
                   <div className="container">
                     <div className="row justify-content-center">
                       <div className="col-lg-8 col-md-10">

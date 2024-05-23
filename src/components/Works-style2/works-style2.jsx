@@ -2,7 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
-import projectData from "../../data/project-details2.json";
+import projectData from "../../data/project-details.json";
 
 const renderGridItem = (item, grid) => (
     <div

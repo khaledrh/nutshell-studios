@@ -3,7 +3,7 @@ import React from "react";
 import Navbar from "../components/Navbar/navbar";
 import Footer from "../components/Footer/footer";
 import DarkTheme from "../layouts/Dark";
-import ContactHeader from "../components/Contact-header/contact-header";
+import CareerHeader from "../components/Career-header/career-header";
 import CareerForm from "../components/Career-form/career-form";
 
 const Contact = () => {
@@ -35,6 +35,7 @@ const Contact = () => {
   return (
     <DarkTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
+        <CareerHeader />
         <CareerForm />
         <Footer hideBGCOLOR />
     </DarkTheme>

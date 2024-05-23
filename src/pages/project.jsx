@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar/navbar";
 import Footer from "../components/Footer/footer";
 import DarkTheme from "../layouts/Dark";
-import ProjectData from "../data/project-details2.json";
+import ProjectData from "../data/project-details.json";
 import ProjectIntroduction from "../components/Project-introduction/project-introduction";
 import ProjectGallery from "../components/Project-gallery/project-gallery";
 import ProjectVideo from "../components/Project-video/project-video";
