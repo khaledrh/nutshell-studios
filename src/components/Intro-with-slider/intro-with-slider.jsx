@@ -80,14 +80,16 @@ const IntroWithSlider = ({ sliderRef }) => {
             className="swiper-wrapper"
             slidesPerView={1}
           >
-            {introData.map((slide) => (
+            {introData.map((slide, index) => (
               <SwiperSlide key={slide.id} className="swiper-slide">
                 <div
                   className="bg-img valign"
                   style={{ backgroundImage: `url(${slide.image})` }}
                   data-overlay-dark="6"
                 >
-                  <BackgroundVideo  src="..\img\26.mp4" loop autoPlay/>
+                  {index === 0 && (
+                    <BackgroundVideo src="..\img\26.mp4" loop autoPlay />
+                  )}
                   <div className="container">
                     <div className="row justify-content-center">
                       <div className="col-lg-8 col-md-10">
@@ -115,9 +117,7 @@ const IntroWithSlider = ({ sliderRef }) => {
                               </span>
                             </div>
                           </a>
-                          
                         </div>
-                          
                       </div>
                     </div>
                   </div>
@@ -144,16 +144,16 @@ const IntroWithSlider = ({ sliderRef }) => {
 
         <div className="social-icon">
           <a href="https://www.facebook.com/profile.php?id=100088383735706&mibextid=nW3QTL">
-             <i className="fab fa-facebook-f"></i>
+            <i className="fab fa-facebook-f"></i>
           </a>
           <a href="https://instagram.com/nutshell.studios?igshid=NTc4MTIwNjQ2YQ==">
-             <i className="fab fa-instagram"></i>
+            <i className="fab fa-instagram"></i>
           </a>
           <a href="https://vimeo.com/nutshellstudios">
-             <i className="fab fa-vimeo"></i>
+            <i className="fab fa-vimeo"></i>
           </a>
           <a href="https://www.linkedin.com/company/nutshellstudios/">
-             <i className="fab fa-linkedin"></i>
+            <i className="fab fa-linkedin"></i>
           </a>
         </div>
       </div>

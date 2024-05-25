@@ -88,7 +88,7 @@ const Works = () => {
                           </h6>
                           <h4>
                             <Link
-                              href={`/project?id=${item.id}`}
+                              href={`/portfolio/` + item.id}
                             >
                               {item.title.first}
                             </Link>

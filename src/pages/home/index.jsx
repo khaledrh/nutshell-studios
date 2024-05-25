@@ -1,15 +1,15 @@
 import React from "react";
-import Navbar from "../components/Navbar/navbar";
-import IntroWithSlider from "../components/Intro-with-slider/intro-with-slider";
-import Vision from "../components/About-us/about-us";
-import Mission from "../components/About-us3/about-us3";
-import Works from "../components/Works/works";
-import Numbers from "../components/Numbers/numbers";
-import VideoWithTestimonials from "../components/Video-with-testimonials/video-with-testimonials";
-import SkillsCircle from "../components/Skills-circle/skills-circle";
-import CallToAction from "../components/Call-to-action/call-to-action";
-import Footer from "../components/Footer/footer";
-import DarkTheme from "../layouts/Dark";
+import Navbar from "../../components/Navbar/navbar";
+import IntroWithSlider from "../../components/Intro-with-slider/intro-with-slider";
+import Vision from "../../components/About-us/about-us";
+import Mission from "../../components/About-us3/about-us3";
+import Works from "../../components/Works/works";
+import Numbers from "../../components/Numbers/numbers";
+import VideoWithTestimonials from "../../components/Video-with-testimonials/video-with-testimonials";
+import SkillsCircle from "../../components/Skills-circle/skills-circle";
+import CallToAction from "../../components/Call-to-action/call-to-action";
+import Footer from "../../components/Footer/footer";
+import DarkTheme from "../../layouts/Dark";
 
 
 const Homepage1 = () => {

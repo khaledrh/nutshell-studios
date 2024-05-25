@@ -1,9 +1,9 @@
 import React from "react";
-import DarkTheme from "../layouts/Dark";
-import Navbar from "../components/Navbar/navbar";
-import Footer from "../components/Footer/footer";
-import WorksHeader from "../components/Works-header/works-header";
-import WorksStyle2 from "../components/Works-style2/works-style2";
+import DarkTheme from "../../layouts/Dark";
+import Navbar from "../../components/Navbar/navbar";
+import Footer from "../../components/Footer/footer";
+import WorksHeader from "../../components/Works-header/works-header";
+import WorksStyle2 from "../../components/Works-style2/works-style2";
 
 
 const WorksDark = () => {
@@ -48,8 +48,8 @@ const WorksDark = () => {
       <WorksHeader sliderRef={fixedHeader} />
       <div ref={MainContent} className="main-content">
         <WorksStyle2 grid={3} filterPosition="center" />
-        <Footer />
       </div>
+      <Footer />
     </DarkTheme>
   );
 };

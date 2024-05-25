@@ -17,7 +17,7 @@ const renderGridItem = (item, grid) => (
       data-wow-offset="900"
     >
       <div className="item-img">
-      <Link href={`/project?id=${item.id}`}>
+      <Link href={`/portfolio/` + item.id}>
           <a className="imago wow">
             <img src={item.projectHeaderImage} alt="image" />
             <div className="item-img-overlay"></div>

@@ -1,9 +1,12 @@
+/* eslint-disable @next/next/no-sync-scripts */
 import React from "react";
-import Navbar from "../components/Navbar/navbar";
-import ShowcasesFullScreen from "../components/Showcases-full-screen/showcases-full-screen";
-import DarkTheme from "../layouts/Dark";
+import Navbar from "../../components/Navbar/navbar";
+import Footer from "../../components/Footer/footer";
+import DarkTheme from "../../layouts/Dark";
+import CareerHeader from "../../components/Career-header/career-header";
+import CareerForm from "../../components/Career-form/career-form";
 
-const ShowcaseDark = () => {
+const Contact = () => {
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);
 
@@ -18,7 +21,7 @@ const ShowcaseDark = () => {
       navbar.classList.remove("nav-scroll");
     }
     window.addEventListener("scroll", () => {
-      if (window.scrollY > 300) {
+      if (window.pageYOffset > 300) {
         navbar.classList.add("nav-scroll");
       } else {
         navbar.classList.remove("nav-scroll");
@@ -31,10 +34,12 @@ const ShowcaseDark = () => {
 
   return (
     <DarkTheme>
-          <Navbar nr={navbarRef} lr={logoRef} />
-      <ShowcasesFullScreen />
+      <Navbar nr={navbarRef} lr={logoRef} />
+        <CareerHeader />
+        <CareerForm />
+        <Footer hideBGCOLOR />
     </DarkTheme>
   );
 };
 
-export default ShowcaseDark;
+export default Contact;
