@@ -2,7 +2,8 @@
   {
     "id": 1,
     "title": { "first": "Paymob", "second": "Where's my money" },
-    "projectHeaderImage": "/img/portfolio/project2/1/prog-1.jpg",
+    "projectHeaderImage": "/img/projects/1/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/1/800x1000.jpg",
     "videoLink": "942792132",
     "date": "6 August 2022",
     "categories": "tvc",
@@ -36,34 +37,39 @@
         },
         {
           "id": 3,
-          "name": "Production House: Kay-Oh Productions"
+          "name": "◦◦◦"
         },
         {
           "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
+          "name": "Production House: Kay-Oh Productions"
         },
         {
           "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
+          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
         },
         {
           "id": 6,
+          "name": "Post Producer Supervisor: Amr Junior"
+        },
+        {
+          "id": 7,
           "name": "Post Producer: Nada Kenawy"
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1/1.png",
-      "/img/portfolio/project2/1/2.png",
-      "/img/portfolio/project2/1/3.png",
-      "/img/portfolio/project2/1/4.png"
+      "/img/projects/1/1.png",
+      "/img/projects/1/2.png",
+      "/img/projects/1/3.png",
+      "/img/projects/1/4.png"
     ]
   },
   {
     "id": 2,
-    "title": { "first": "Weyay Bank", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/2/Weyay_Bank.jpg",
-    "videoLink": "943701907",
+    "title": { "first": "DATA", "second": "INSIGHTS" },
+    "projectHeaderImage": "/img/projects/2/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/2/800x1000.jpg",
+    "videoLink": "943013660",
     "date": "6 August 2022",
     "categories": "TVC",
     "tags": [
@@ -88,300 +94,43 @@
       "spmList": [
         {
           "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
+          "name": "Production the post office"
+        },
+        {
+          "id": 2,
+          "name": "Executive Producer: Mai El-Awamry"
+        },
+        {
+          "id": 3,
+          "name": "Director: Mariam El bagoury"
+        },
+        {
+          "id": 4,
+          "name": "DOP: Mohab Abo El Nass"
+        },
+        {
+          "id": 5,
+          "name": "Art Director: Ahmed Shaaban"
+        },
+        {
+          "id": 6,
+          "name": "Stylist: Engy EL-Gabaly"
+        },
+        {
+          "id": 7,
+          "name": "Director's Producer: Ayah El-Adly"
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1/1.png",
-      "/img/portfolio/project2/1/2.png",
-      "/img/portfolio/project2/1/3.png",
-      "/img/portfolio/project2/1/4.png"
+      
     ]
   },
   {
     "id": 3,
-    "title": { "first": "Orange Cash", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/3/Orange_Cash.jpg",
-    "videoLink": "943696168",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 4,
-    "title": { "first": "CocaCola_Demo", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/4/CocaCola_Demo.jpg",
-    "videoLink": "943700539",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },{
-    "id": 5,
-    "title": { "first": "Money Fellows - Noisy Neighbours", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/5/Money_Fellows.jpg",
-    "videoLink": "943694368",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        },
-        {
-          "id": 2,
-          "name": "DOP: Kamal Samy"
-        },
-        {
-          "id": 3,
-          "name": "Production House: Kay-Oh Productions"
-        },
-        {
-          "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
-        },
-        {
-          "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
-        },
-        {
-          "id": 6,
-          "name": "Post Producer: Nada Kenawy"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 6,
-    "title": { "first": "Chipsy X KFC", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/6/ChipsyXKFC.jpg",
-    "videoLink": "943684776",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 7,
-    "title": { "first": "Domty", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/7/Domty.jpg",
-    "videoLink": "943020523",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 8,
-    "title": { "first": "NBE", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/8/NBE.jpg",
-    "videoLink": "943017298",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        },
-        {
-          "id": 2,
-          "name": "DOP: Kamal Samy"
-        },
-        {
-          "id": 3,
-          "name": "Production House: Kay-Oh Productions"
-        },
-        {
-          "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
-        },
-        {
-          "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
-        },
-        {
-          "id": 6,
-          "name": "Post Producer: Nada Kenawy"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 9,
-    "title": { "first": "Vodafone Black Friday", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/9/Vodafone_Black_Friday.jpg",
+    "title": { "first": "Vodafone", "second": "Black Friday" },
+    "projectHeaderImage": "/img/projects/3/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/3/800x1000.jpg",
     "videoLink": "943015173",
     "date": "6 August 2022",
     "categories": "TVC",
@@ -407,420 +156,39 @@
       "spmList": [
         {
           "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 10,
-    "title": { "first": "MOSCOW ｜ Msh Shayfak", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/10/MOSCOW_Msh_Shayfak.jpg",
-    "videoLink": "943694445",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 11,
-    "title": { "first": "NBE - The Cafe", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/11/NBE_The_Cafe.jpg",
-    "videoLink": "943694933",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1/1.png",
-      "/img/portfolio/project2/1/2.png",
-      "/img/portfolio/project2/1/3.png",
-      "/img/portfolio/project2/1/4.png"
-    ]
-  },
-  {
-    "id": 12,
-    "title": { "first": "ELAF Ramadan 2024", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/12/ELAF_Ramadan_2024.jpg",
-    "videoLink": "943686250",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1/1.png",
-      "/img/portfolio/project2/1/2.png",
-      "/img/portfolio/project2/1/3.png",
-      "/img/portfolio/project2/1/4.png"
-    ]
-  },
-  {
-    "id": 13,
-    "title": { "first": "NBE Security", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/13/NBE_Security.jpg",
-    "videoLink": "943023878",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 14,
-    "title": { "first": "KFH - Zaheb", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/14/KFH_Zaheb.jpg",
-    "videoLink": "943025165",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },{
-    "id": 15,
-    "title": { "first": "Blue Vert", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/15/Blue_Vert.jpg",
-    "videoLink": "Blue Vert",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
+          "name": "Director: Omar Shawky"
         },
         {
           "id": 2,
-          "name": "DOP: Kamal Samy"
+          "name": "Agency: Monkeys in Tuxedos"
         },
         {
           "id": 3,
-          "name": "Production House: Kay-Oh Productions"
+          "name": "Vodafone Producer: Ammar Matter"
         },
         {
           "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
+          "name": "Production House: Nojara Production"
         },
         {
           "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
+          "name": "Executive Producer: Tarek Nojara"
         },
         {
           "id": 6,
-          "name": "Post Producer: Nada Kenawy"
+          "name": "GFX : Nutshell Studios"
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
+      
     ]
   },
   {
-    "id": 16,
-    "title": { "first": "AUB Egypt", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/16/AUB_Egypt.jpg",
-    "videoLink": "943025296",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 17,
-    "title": { "first": "Breadfast", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/17/Breadfast.jpg",
-    "videoLink": "943026342",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 18,
-    "title": { "first": "NBE ｜ Summer Campaign 2023", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/18/NBE_Summer_Campaign_2023.jpg",
-    "videoLink": "943695812",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
-        },
-        {
-          "id": 2,
-          "name": "DOP: Kamal Samy"
-        },
-        {
-          "id": 3,
-          "name": "Production House: Kay-Oh Productions"
-        },
-        {
-          "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
-        },
-        {
-          "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
-        },
-        {
-          "id": 6,
-          "name": "Post Producer: Nada Kenawy"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 19,
-    "title": { "first": "Mcdonald’s App", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/19/Mcdonalds_App.jpg",
+    "id": 4,
+    "title": { "first": "Mcdonald’s", "second": "App" },
+    "projectHeaderImage": "/img/projects/4/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/4/800x1000.jpg",
     "videoLink": "943018265",
     "date": "6 August 2022",
     "categories": "TVC",
@@ -892,16 +260,565 @@
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
     ]
   },
   {
-    "id": 20,
+    "id": 5,
+    "title": { "first": "Blue", "second": "Vert" },
+    "projectHeaderImage": "/img/projects/5/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/5/800x1000.jpg",
+    "videoLink": "943026024",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "Blue Vert Featuring",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Directed by Tuesday Project"
+        },
+        {
+          "id": 2,
+          "name": "DOP: @3otared"
+        },
+        {
+          "id": 3,
+          "name": "Agency: RichKids"
+        },
+        {
+          "id": 4,
+          "name": "Creative Director : @bassemgad"
+        },
+        {
+          "id": 5,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 6,
+          "name": "Saudi Egyptian Developers :"
+        },
+        {
+          "id": 7,
+          "name": "Head of Marketing: Mohamed Abd El latif @dapmaja_"
+        },
+        {
+          "id": 8,
+          "name": "Senior Marketing Manager: Ahmed El Shimy"
+        },
+        {
+          "id": 9,
+          "name": "Digital Assistant Manager: Mohamed Nour"
+        },
+        {
+          "id": 10,
+          "name": "◦◦◦" 
+        },
+        {
+          "id": 11,
+          "name": "Production House: Butter Films"
+        },
+        {
+          "id": 12,
+          "name": "Executive Producers: @mderbala & @ohamdy__"
+        },
+        {
+          "id": 13,
+          "name": "Producer: @shereen moussa"
+        },
+        {
+          "id": 14,
+          "name": "Line Producer: @pashawitha_b"
+        },
+        {
+          "id": 15,
+          "name": "Assistant Producer: @raneemfrancoo"
+        },
+        {
+          "id": 16,
+          "name": "Post Producer : @omar3antar"
+        },
+        {
+          "id": 17,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 18,
+          "name": "VFX & Online : Nutshell Studios"
+        },
+        {
+          "id": 19,
+          "name": "Hisham Elmohamady"
+        },
+        {
+          "id": 20,
+          "name": "Moaz hesham"
+        },
+        {
+          "id": 21,
+          "name": "Islam abdelmoniem"
+        },
+        {
+          "id": 22,
+          "name": "Anas osama"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 6,
+    "title": { "first": "NBE", "second": "Security" },
+    "projectHeaderImage": "/img/projects/6/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/6/800x1000.jpg",
+    "videoLink": "943023878",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Kay Oh Productions"
+        },
+        {
+          "id": 2,
+          "name": "Agency: TNA"
+        },
+        {
+          "id": 3,
+          "name": "Executive Producer: Shady Abdelaziz - Ahmed Arafa"
+        },
+        {
+          "id": 4,
+          "name": "Producer : Khaled Mohsen"
+        },
+        {
+          "id": 5,
+          "name": "Director : Amr Haddad"
+        },
+        {
+          "id": 6,
+          "name": "DOP: Mohamed Hamzon"
+        },
+        {
+          "id": 7,
+          "name": "Post Producer supervisor : Amr junior"
+        },
+        {
+          "id": 8,
+          "name": "Post producer: ghadeer amr"
+        },
+        {
+          "id": 9,
+          "name": "Art Director : Eslam Hassan Shawky"
+        },
+        {
+          "id": 10,
+          "name": "Stylist: Nada Khedr"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 7,
+    "title": { "first": "AUB", "second": "Egypt" },
+    "projectHeaderImage": "/img/projects/7/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/7/800x1000.jpg",
+    "videoLink": "943025296",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 8,
+    "title": { "first": "KFH -", "second": "Zaheb" },
+    "projectHeaderImage": "/img/projects/8/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/8/800x1000.jpg",
+    "videoLink": "943025165",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Younes Medhat"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Firat Lita Sozbir"
+        },
+        {
+          "id": 3,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 4,
+          "name": "Production house: Big Production - Hussain Hammadi"
+        },
+        {
+          "id": 5,
+          "name": "Post producer: Mahmoud Desouky"
+        },
+        {
+          "id": 6,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 7,
+          "name": "VFX : Nutshell Studios"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 9,
+    "title": { "first": "NBE", "second": "Summer Campaign 2023" },
+    "projectHeaderImage": "/img/projects/9/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/9/800x1000.jpg",
+    "videoLink": "943695812",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Written and directed by: El hamba & Sherif Doss"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Kamal Samy"
+        },
+        {
+          "id": 3,
+          "name": "Production House: Kay-Oh Productions"
+        },
+        {
+          "id": 4,
+          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
+        },
+        {
+          "id": 5,
+          "name": "Post Producer Supervisor: Amr Junior"
+        },
+        {
+          "id": 6,
+          "name": "Post Producer: Nada Kenawy"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 10,
+    "title": { "first": "Ma2oltesh la2", "second": "ft. Double Zuksh & Arsenik" },
+    "projectHeaderImage": "/img/projects/10/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/10/800x1000.jpg",
+    "videoLink": "943688452",
+    "date": "6 August 2022",
+    "categories":  "music",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Zeyad Abas"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Moaz Abbas"
+        },
+        {
+          "id": 3,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 4,
+          "name": "Production house: KN Production"
+        },
+        {
+          "id": 5,
+          "name": "Executive producer: Khaled Nojara"
+        },
+        {
+          "id": 6,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 7,
+          "name": "VFX : Nutshell Studios"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 11,
+    "title": { "first": "Vodafone", "second": "World Cup" },
+    "projectHeaderImage": "/img/projects/11/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/11/800x1000.jpg",
+    "videoLink": "942980619",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "Watch our latest ad for Vodafone Egypt",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Amr El Hadad"
+        },
+        {
+          "id": 2,
+          "name": "Director’s Producer : Dalia Arafa"
+        },
+        {
+          "id": 3,
+          "name": "DOP: Mostafa Elkashef"
+        },
+        {
+          "id": 4,
+          "name": "Production House : Rhino & Oxpecker Productions"
+        },
+        {
+          "id": 5,
+          "name": "Executive Producer : Mohamed Abdelrehim - Saleh El-Azab"
+        },
+        {
+          "id": 6,
+          "name": "Producer : Amal Gharbo"
+        },
+        {
+          "id": 7,
+          "name": "Post Producer : Mariam Samir"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 12,
+    "title": { "first": "Misk Foundation", "second": "92nd Saudi National Day" },
+    "projectHeaderImage": "/img/projects/12/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/12/800x1000.jpg",
+    "videoLink": "942982666",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Karim Shaaban"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Beshoy Rosevelt"
+        },
+        {
+          "id": 3,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 4,
+          "name": "Agency: Merak"
+        },
+        {
+          "id": 5,
+          "name": "Ex Producer: Mjeed Hattaf"
+        },
+        {
+          "id": 6,
+          "name": "Merak producer: Mostafa Zaker"
+        },
+        {
+          "id": 7,
+          "name": "Creative Director: @a7meid"
+        },
+        {
+          "id": 8,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 9,
+          "name": "Production House: KN Production"
+        },
+        {
+          "id": 10,
+          "name": "Exective Producer: Khaled Nojara"
+        },
+        {
+          "id": 11,
+          "name": "Producer: Omar Hamdy"
+        },
+        {
+          "id": 12,
+          "name": "Line Producer: Shereen Moussa|"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 13,
     "title": { "first": "WePay", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/20/WePay.jpg",
+    "projectHeaderImage": "/img/projects/13/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/13/800x1000.jpg",
     "videoLink": "943016036",
     "date": "6 August 2022",
     "categories": "TVC",
@@ -960,16 +877,286 @@
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
     ]
   },
   {
-    "id": 21,
+    "id": 14,
+    "title": { "first": "1/2 MILLION", "second": "Sun Kissed - DC’s" },
+    "projectHeaderImage": "/img/projects/14/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/14/800x1000.jpg",
+    "videoLink": "943699302",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "1/2 million cold drinks - Sun Kissed - DC’s",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Amr Hadad"
+        },
+        {
+          "id": 2,
+          "name": "Director’s Producer: Dalia Arafa"
+        },
+        {
+          "id": 3,
+          "name": "DOP: Tarek Hefny"
+        },
+        {
+          "id": 4,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 5,
+          "name": "Agency: TTP"
+        },
+        {
+          "id": 6,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 7,
+          "name": "Production House: Hoku Film"
+        },
+        {
+          "id": 8,
+          "name": "Hoku Producer : Ali Aljari"
+        },
+        {
+          "id": 9,
+          "name": "Senior Producer : Omar Hamdy"
+        },
+        {
+          "id": 10,
+          "name": "Producer : Kholoud A. Etman" 
+        },
+        {
+          "id": 11,
+          "name": "Line Producer : Shereen Moussa"
+        },
+        {
+          "id": 12,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 13,
+          "name": "The Barber Shop Team:"
+        },
+        {
+          "id": 14,
+          "name": "Editing Team:"
+        },
+        {
+          "id": 15,
+          "name": "Amr Rabee"
+        },
+        {
+          "id": 16,
+          "name": "Omar Sherien"
+        },
+        {
+          "id": 17,
+          "name": "Mohamed Adel"
+        },
+        {
+          "id": 18,
+          "name": "Marwa Zakaria"
+        },
+        {
+          "id": 19,
+          "name": "Dareen Arafa"
+        },
+        {
+          "id": 20,
+          "name": "Andrew Louis"
+        },
+        {
+          "id": 21,
+          "name": "DIT : Ahmed Ossama - Ahmed Omar"
+        },
+        {
+          "id": 22,
+          "name": "Sound Mix : Fady Garas"
+        },
+        {
+          "id": 23,
+          "name": "Post Producer : Nesrin Talaat"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 15,
+    "title": { "first": "Misr Italia Properties - Ahlamna", "second": "Angham and Cairokee" },
+    "projectHeaderImage": "/img/projects/15/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/15/800x1000.jpg",
+    "videoLink": "943693687",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 16,
+    "title": { "first": "Breadfast X", "second": "Nour El Shetbini" },
+    "projectHeaderImage": "/img/projects/16/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/16/800x1000.jpg",
+    "videoLink": "943026342",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Written and directed by: El hamba & Sherif Doss"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 17,
+    "title": { "first": "Vodafone", "second": "Business" },
+    "projectHeaderImage": "/img/projects/17/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/17/800x1000.jpg",
+    "videoLink": "943701022",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 18,
+    "title": { "first": "Tornado", "second": "- Sudan" },
+    "projectHeaderImage": "/img/projects/18/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/18/800x1000.jpg",
+    "videoLink": "943701022",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 19,
     "title": { "first": "NBE_125", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/21/NBE_125.jpg",
+    "projectHeaderImage": "/img/projects/19/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/19/800x1000.jpg",
     "videoLink": "943017565",
     "date": "6 August 2022",
     "categories": "TVC",
@@ -1001,17 +1188,89 @@
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1/1.png",
-      "/img/portfolio/project2/1/2.png",
-      "/img/portfolio/project2/1/3.png",
-      "/img/portfolio/project2/1/4.png"
+    ]
+  },
+  {
+    "id": 20,
+    "title": { "first": "Naguib Selim", "second": "ft Gilan Alaa" },
+    "projectHeaderImage": "/img/projects/20/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/20/800x1000.jpg",
+    "videoLink": "943701022",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 21,
+    "title": { "first": "Manzanilla", "second": "ORO" },
+    "projectHeaderImage": "/img/projects/21/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/21/800x1000.jpg",
+    "videoLink": "943689218",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+
+      ]
+    },
+    "gallery": [
     ]
   },
   {
     "id": 22,
-    "title": { "first": "DATA INSIGHTS", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/22/DATA_INSIGHTS.jpg",
-    "videoLink": "943013660",
+    "title": { "first": "ELAF ", "second": "Ramadan 2024" },
+    "projectHeaderImage": "/img/projects/22/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/22/800x1000.jpg",
+    "videoLink": "943686250",
     "date": "6 August 2022",
     "categories": "TVC",
     "tags": [
@@ -1036,114 +1295,19 @@
       "spmList": [
         {
           "id": 1,
-          "name": "Production the post office"
-        },
-        {
-          "id": 2,
-          "name": "Executive Producer: Mai El-Awamry"
-        },
-        {
-          "id": 3,
-          "name": "Director: Mariam El bagoury"
-        },
-        {
-          "id": 4,
-          "name": "DOP: Mohab Abo El Nass"
-        },
-        {
-          "id": 5,
-          "name": "Art Director: Ahmed Shaaban"
-        },
-        {
-          "id": 6,
-          "name": "Stylist: Engy EL-Gabaly"
-        },
-        {
-          "id": 7,
-          "name": "Director's Producer: Ayah El-Adly"
+          "name": ""
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1/1.png",
-      "/img/portfolio/project2/1/2.png",
-      "/img/portfolio/project2/1/3.png",
-      "/img/portfolio/project2/1/4.png"
     ]
   },
   {
     "id": 23,
-    "title": { "first": "Vodafone_World Cup", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/23/Vodafone_World_Cup.jpg",
-    "videoLink": "942980619",
-    "date": "6 August 2022",
-    "categories": "TVC",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
-    "credit": {
-      "content": "Watch our latest ad for Vodafone Egypt",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Director: Amr El Hadad"
-        },
-        {
-          "id": 2,
-          "name": "Director’s Producer : Dalia Arafa"
-        },
-        {
-          "id": 3,
-          "name": "DOP: Mostafa Elkashef"
-        },
-        {
-          "id": 4,
-          "name": "Production House : Rhino & Oxpecker Productions"
-        },
-        {
-          "id": 5,
-          "name": "Executive Producer : Mohamed Abdelrehim - Saleh El-Azab"
-        },
-        {
-          "id": 6,
-          "name": "Producer : Amal Gharbo"
-        },
-        {
-          "id": 7,
-          "name": "Post Producer : Mariam Samir"
-        },
-        {
-          "id": 8,
-          "name": "DOP: Muhammed Ibrahim"
-        }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
-    ]
-  },
-  {
-    "id": 24,
-    "title": { "first": "Misk Foundation - 92nd Saudi National Day", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/24/Misk_Foundation.jpg",
-    "videoLink": "942982666",
+    "title": { "first": "Domty - ft Ahmed Dash", "second": "& Mahmoud Kahraba" },
+    "projectHeaderImage": "/img/projects/23/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/23/800x1000.jpg",
+    "videoLink": "943020523",
     "date": "6 August 2022",
     "categories": "TVC",
     "tags": [
@@ -1168,44 +1332,111 @@
       "spmList": [
         {
           "id": 1,
-          "name": "Director: Karim Shaaban"
+          "name": "Director: Tameem Youness"
         },
         {
           "id": 2,
-          "name": "DOP: Beshoy Rosevelt"
+          "name": "DOP: Ahmed Beshary"
         },
         {
           "id": 3,
-          "name": "Agency: Merak"
+          "name": "◦◦◦"
         },
         {
           "id": 4,
-          "name": "Ex Producer: Mjeed Hattaf"
+          "name": "Agency: MediaHub - سعدي جوهر"
         },
         {
           "id": 5,
-          "name": "Merak producer: Mostafa Zaker"
+          "name": "◦◦◦"
         },
         {
           "id": 6,
-          "name": "Creative Director: @a7meid"
+          "name": "Production House: Kay-Oh Productions"
         },
         {
           "id": 7,
-          "name": "ACD: @iiahmedovic"
+          "name": "Producer: Shams Ismail"
+        },
+        {
+          "id": 2,
+          "name": "Post Producers: Amr Elsoghyar - Nada Kenawy"
+        },
+        {
+          "id": 3,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 4,
+          "name": "Post House VIVID Studios :"
+        },
+        {
+          "id": 5,
+          "name": "Editor: Baher Rasheed"
+        },
+        {
+          "id": 6,
+          "name": "Post Producers: Sarah Abouzeid - Hagar Hamza"
+        },
+        {
+          "id": 7,
+          "name": "DIT: Ahmed Rafat - Mohamed Hamdi"
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
     ]
-  },{
+  },
+  {
+    "id": 24,
+    "title": { "first": "NBE - ", "second": "The Cafe" },
+    "projectHeaderImage": "/img/projects/24/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/24/800x1000.jpg",
+    "videoLink": "943694933",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Written and directed by: El hamba & Sherif Doss"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Kamal Samy"
+        },
+        {
+          "id": 3,
+          "name": "Production House: Kay-Oh Productions"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
     "id": 25,
-    "title": { "first": "Nice One", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/25/Nice_One.jpg",
+    "title": { "first": "Nice", "second": "One" },
+    "projectHeaderImage": "/img/projects/25/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/25/800x1000.jpg",
     "videoLink": "943698449",
     "date": "6 August 2022",
     "categories": "TVC",
@@ -1231,43 +1462,634 @@
       "spmList": [
         {
           "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
+          "name": "Director: Mariam El Bagoury"
         },
         {
           "id": 2,
-          "name": "DOP: Kamal Samy"
+          "name": "DOP: Mohamed Hamzon"
         },
         {
           "id": 3,
-          "name": "Production House: Kay-Oh Productions"
-        },
-        {
-          "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
-        },
-        {
-          "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
-        },
-        {
-          "id": 6,
-          "name": "Post Producer: Nada Kenawy"
+          "name": "Producer: Zeiad Hany"
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
     ]
-  },{
+  },
+  {
     "id": 26,
-    "title": { "first": "Ma2oltesh la2", "second": "" },
-    "projectHeaderImage": "/img/portfolio/project2/26/Ma2oltesh_la2.jpg",
-    "videoLink": "943688452",
+    "title": { "first": "Orange", "second": "Cash" },
+    "projectHeaderImage": "/img/projects/26/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/26/800x1000.jpg",
+    "videoLink": "943696168",
     "date": "6 August 2022",
-    "categories":  "music",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Hadi Elbagoury"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Fawzi Darwish"
+        },
+        {
+          "id": 3,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 4,
+          "name": "Production house: Kay-Oh Productions"
+        },
+        {
+          "id": 5,
+          "name": "Producers: Shady Abdelaziz - Ahmed Arafa"
+        },
+        {
+          "id": 6,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 7,
+          "name": "Agency: Big Buzz Network"
+        },
+        {
+          "id": 8,
+          "name": "Belal Rabah - Amr Abdelwahab"
+        },
+        {
+          "id": 9,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 10,
+          "name": "Post House VIVID Studios :" 
+        },
+        {
+          "id": 11,
+          "name": "Editor: Hussien Mokhtar"
+        },
+        {
+          "id": 12,
+          "name": "Colorist: M Sami Nassar"
+        },
+        {
+          "id": 13,
+          "name": "Post producer: Sarah Abouzeid"
+        },
+        {
+          "id": 14,
+          "name": "Assistant post producer: Hagar Hamza"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 27,
+    "title": { "first": "MOSCOW X Rafiek", "second": "Msh Shayfak" },
+    "projectHeaderImage": "/img/projects/27/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/27/800x1000.jpg",
+    "videoLink": "943694445",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Directed by: Malek Alaa El-Ashmawi"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Ibrahim El Naggary"
+        },
+        {
+          "id": 3,
+          "name": "Executive Producer: Mohamed Elfarra - Omar Pasha - Speko"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 28,
+    "title": { "first": "Money Fellows -", "second": "Noisy Neighbours" },
+    "projectHeaderImage": "/img/projects/28/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/28/800x1000.jpg",
+    "videoLink": "943694368",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 29,
+    "title": { "first": "STC | Bahrain", "second": "National Day" },
+    "projectHeaderImage": "/img/projects/29/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/29/800x1000.jpg",
+    "videoLink": "943683456",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Malek Ashmawi"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Koushi"
+        },
+        {
+          "id": 3,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 4,
+          "name": "Art direction: Omar Shehab / Adham Shawki"
+        },
+        {
+          "id": 5,
+          "name": "Executive producer: Nouf al roudan"
+        },
+        {
+          "id": 6,
+          "name": "senior producer: Badria al roudan"
+        },
+        {
+          "id": 7,
+          "name": "producer: Ahmad shoiab"
+        },
+        {
+          "id": 8,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 9,
+          "name": "VFX & Online : Nutshell Studios"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 30,
+    "title": { "first": "Elbakyat Elsalehat l ", "second": "Medhat Saleh l Director’s Cut" },
+    "projectHeaderImage": "/img/projects/30/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/30/800x1000.jpg",
+    "videoLink": "943686394",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 31,
+    "title": { "first": "NBE", "second": "" },
+    "projectHeaderImage": "/img/projects/31/NBE.jpg",
+    "projectCroppedImage": "/img/projects/31/800x1000.jpg",
+    "videoLink": "943017298",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 32,
+    "title": { "first": "Midea", "second": "Ramadan 2024" },
+    "projectHeaderImage": "/img/projects/32/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/32/800x1000.jpg",
+    "videoLink": "943024550",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Kay Oh Productions"
+        },
+        {
+          "id": 2,
+          "name": "Executive Producer: Ahmed Arafa - Shady Abdelaziz"
+        },
+        {
+          "id": 3,
+          "name": "Producer : Khaled Mohsen"
+        },
+        {
+          "id": 4,
+          "name": "Director: Shank"
+        },
+        {
+          "id": 5,
+          "name": "DOP: Kamal Samy"
+        },
+        {
+          "id": 6,
+          "name": "Post Producer supervisor : Amr junior"
+        },
+        {
+          "id": 7,
+          "name": "Post producer: ghadeer amr"
+        },
+        {
+          "id": 8,
+          "name": "Art Director : Ahmed Shaaban"
+        },
+        {
+          "id": 9,
+          "name": "Stylist: Nada Khedr"
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 33,
+    "title": { "first": "CST -", "second": "#Hosebha" },
+    "projectHeaderImage": "/img/projects/33/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/33/800x1000.jpg",
+    "videoLink": "943685267",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 34,
+    "title": { "first": "STC", "second": "" },
+    "projectHeaderImage": "/img/projects/34/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/34/800x1000.jpg",
+    "videoLink": "943697248",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 35,
+    "title": { "first": "TTC", "second": "CHEESE" },
+    "projectHeaderImage": "/img/projects/35/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/35/800x1000.jpg",
+    "videoLink": "943698983",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 36,
+    "title": { "first": "Misr Elkheir", "second": "2024" },
+    "projectHeaderImage": "/img/projects/36/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/36/800x1000.jpg",
+    "videoLink": "943693389",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 37,
+    "title": { "first": "Chipsy", "second": "X KFC" },
+    "projectHeaderImage": "/img/projects/37/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/37/800x1000.jpg",
+    "videoLink": "943684776",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 38,
+    "title": { "first": "Qiddya", "second": "- Saudi" },
+    "projectHeaderImage": "/img/projects/38/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/38/800x1000.jpg",
+    "videoLink": "943696850",
+    "date": "6 August 2022",
+    "categories": "TVC",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Minimal",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Modern",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Design",
+        "link": "#"
+      }
+    ],
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": ""
+        }
+      ]
+    },
+    "gallery": [
+    ]
+  },
+  {
+    "id": 39,
+    "title": { "first": "CocaCola", "second": "Demo" },
+    "projectHeaderImage": "/img/projects/39/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/39/800x1000.jpg",
+    "videoLink": "943700539",
+    "date": "6 August 2022",
+    "categories": "TVC",
     "tags": [
       {
         "id": 1,
@@ -1291,35 +2113,13 @@
         {
           "id": 1,
           "name": "Written and directed by: El hamba & Sherif Doss"
-        },
-        {
-          "id": 2,
-          "name": "DOP: Kamal Samy"
-        },
-        {
-          "id": 3,
-          "name": "Production House: Kay-Oh Productions"
-        },
-        {
-          "id": 4,
-          "name": "Executive Producer: Shady Abdel-Aziz Ahmad Amr Arafa"
-        },
-        {
-          "id": 5,
-          "name": "Post Producer Supervisor: Amr Junior"
-        },
-        {
-          "id": 6,
-          "name": "Post Producer: Nada Kenawy"
         }
       ]
     },
     "gallery": [
-      "/img/portfolio/project2/1.png",
-      "/img/portfolio/project2/2.png",
-      "/img/portfolio/project2/3.png",
-      "/img/portfolio/project2/4.png"
     ]
   }
+  
+  
   
 ]

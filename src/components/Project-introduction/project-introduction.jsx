@@ -14,9 +14,9 @@ const ProjectIntroduction = ({ projectIntroductionData }) => {
           </div>
           <div className="col-lg-8 offset-lg-1 col-md-8">
             <div className="text js-scroll__content">
-              <p className="extra-text mb-10">
+              <pre className="extra-text mb-10">
                 {projectIntroductionData.content}
-              </p>
+              </pre>
               <ul className="smp-list">
                 {projectIntroductionData.spmList.map((item) => (
                   <ul key={item.id}>{item.name}</ul>

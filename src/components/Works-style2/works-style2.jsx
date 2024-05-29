@@ -19,13 +19,13 @@ const renderGridItem = (item, grid) => (
       <div className="item-img">
       <Link href={`/portfolio/` + item.id}>
           <a className="imago wow">
-            <img src={item.projectHeaderImage} alt="image" />
+            <img src={item.projectCroppedImage} alt="image" />
             <div className="item-img-overlay"></div>
           </a>
         </Link>
       </div>
-      <div className="cont wow">
-        <h6>{item.title.first}</h6>
+      <div className="cont wow ">
+        <h6>{item.title.first} {item.title.second}</h6>
         <span>
           <Link href="">Design</Link>,
           <Link href="">WordPress</Link>

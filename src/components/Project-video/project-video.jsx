@@ -42,7 +42,7 @@ const ProjectVideo = ({ projectVideoData }) => {
             </a>
           </div>
          <div id="overlay" className=" text-left pl-50 pt-50 caption" >
-            <h1>{projectVideoData.title.first}</h1>
+            <h1>{projectVideoData.title.first} {projectVideoData.title.second} </h1>
           </div>
         </div>
         

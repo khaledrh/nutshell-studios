@@ -22,13 +22,16 @@ const initIsotope = () => {
   }
 
   var filtersElem = document.querySelector(".filtering");
+
   if (filtersElem) {
     filtersElem.addEventListener("click", function (event) {
-      if (!matchesSelector(event.target, "span")) {
-        return;
-      }
+      console.log('lol');
+      // if (!matchesSelector(event.target, "span")) {
+      //   return;
+      // }
       var filterValue = event.target.getAttribute("data-filter");
-      filterValue = filterValue;
+      filterValue = filterValue ?? "*";
+      console.log(filterValue);
       iso.arrange({ filter: filterValue });
     });
     var buttonGroups = document.querySelectorAll(".filtering");
@@ -45,7 +48,15 @@ const initIsotope = () => {
         event.target.classList.add("active");
       });
     }
-  }
+
+    setTimeout( _ => 
+      trigger( filtersElem, `click` ), 1000 );
+      }
+};
+
+const trigger = (el, etype, custom) => {
+  const evt = custom ?? new Event( etype, { bubbles: true, target: new EventTarget() } );
+  el.dispatchEvent( evt );
 };
 
 export default initIsotope

@@ -88,7 +88,9 @@ const IntroWithSlider = ({ sliderRef }) => {
                   data-overlay-dark="6"
                 >
                   {index === 0 && (
-                    <BackgroundVideo src="..\img\26.mp4" loop autoPlay />
+                    <div className="video-intro-wrapper">
+                      <BackgroundVideo src="..\img\26.mp4" loop autoPlay />
+                    </div>
                   )}
                   <div className="container">
                     <div className="row justify-content-center">
