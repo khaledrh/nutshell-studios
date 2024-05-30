@@ -1757,7 +1757,7 @@
   {
     "id": 31,
     "title": { "first": "NBE", "second": "" },
-    "projectHeaderImage": "/img/projects/31/NBE.jpg",
+    "projectHeaderImage": "/img/projects/31/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/31/800x1000.jpg",
     "videoLink": "943017298",
     "date": "6 August 2022",
@@ -2119,7 +2119,6 @@
     "gallery": [
     ]
   }
-  
-  
+
   
 ]

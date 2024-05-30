@@ -12,7 +12,7 @@ const Navbar = ({ lr, nr, theme }) => {
       }`}
     >
       <div className="container">
-        <Link href="home">
+        <Link href="/home">
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (

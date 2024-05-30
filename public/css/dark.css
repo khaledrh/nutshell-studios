@@ -81,6 +81,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.modal-video-body{
+  max-width: 1200px !important;
+}
+
 .map{
   height: 100vh;
   filter: grayscale(100%) invert(92%) contrast(83%);
@@ -278,8 +282,10 @@ span:hover {
 }
 
 .full-width {
-  width: 100% !important;
+  width: 107% !important;
 }
+
+
 
 .main-color {
   color: #ffffff !important;
@@ -1834,7 +1840,7 @@ span:hover {
 }
 
 .navbar .navbar-nav .dropdown-item:hover {
-  background: transparent;
+  background: #11141b;
   color: #ffffff;
 }
 
@@ -5198,6 +5204,7 @@ span:hover {
 }
 
 .portfolio .gallery .items .cont {
+  min-height: 80px;
   margin-top: 30px;
   text-align: center;
 }
@@ -8687,7 +8694,7 @@ footer .item .copy-right p a {
   }
 
   .navbar .logo {
-    width: 40px;
+    width: 80px;
   }
 
   .hamenu .menu-links .main-menu > li {
@@ -8703,7 +8710,7 @@ footer .item .copy-right p a {
   }
 
   .topnav .logo {
-    width: 40px;
+    width: 80px;
   }
 
   .btn-curve {

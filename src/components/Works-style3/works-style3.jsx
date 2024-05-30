@@ -11,7 +11,7 @@ const WorksStyle3 = () => {
   return (
     <section id="studio" className="portfolio-cr section-ptb pb-50">
       <div className="container">
-        <div className="row">
+        
           <div className="row justify-content-center">
             <div className="col-lg-8 col-md-10">
               <div className="sec-head text-center">
@@ -25,7 +25,7 @@ const WorksStyle3 = () => {
             </div>
           </div>
       
-
+        <div className="row">
           <div className="gallery-mons full-width">
             <div className="items graphic wow fadeInUp" data-wow-delay=".4s">
               <div className="item-img">

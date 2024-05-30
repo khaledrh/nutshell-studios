@@ -15,13 +15,13 @@ const About = () => {
   React.useEffect(() => {
     var navbar = navbarRef.current,
       logo = logoRef.current;
-    if (window.pageYOffset > 300) {
+    if (window.scrollY > 300) {
       navbar.classList.add("nav-scroll");
     } else {
       navbar.classList.remove("nav-scroll");
     }
     window.addEventListener("scroll", () => {
-      if (window.pageYOffset > 300) {
+      if (window.scrollY > 300) {
         navbar.classList.add("nav-scroll");
       } else {
         navbar.classList.remove("nav-scroll");
@@ -30,7 +30,7 @@ const About = () => {
   }, [navbarRef]);
   return (
     <DarkTheme>
-      <Navbar nr={navbarRef} lr={logoRef} from="about-dark" />
+      <Navbar nr={navbarRef} lr={logoRef}/>
       <PagesHeader />
       <AboutIntro />
       <Services style="4item"  />

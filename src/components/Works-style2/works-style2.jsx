@@ -15,6 +15,7 @@ const renderGridItem = (item, grid) => (
       } items ${item.categories} wow `}
       data-wow-delay=".4s"
       data-wow-offset="900"
+      key={item.id}
     >
       <div className="item-img">
       <Link href={`/portfolio/` + item.id}>
