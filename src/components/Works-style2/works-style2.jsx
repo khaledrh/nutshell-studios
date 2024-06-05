@@ -6,26 +6,26 @@ import projectData from "../../data/project-details.json";
 
 const renderGridItem = (item, grid) => (
     <div
-      className={`${
+      className={`
+      ${ 
         grid === 3
           ? "col-lg-4 col-md-6"
           : grid === 2
           ? "col-md-6"
           : "col-12"
-      } items ${item.categories} wow `}
-      data-wow-delay=".4s"
-      data-wow-offset="900"
+        } 
+        items ${item.categories}`}
       key={item.id}
     >
       <div className="item-img">
-      <Link href={`/portfolio/` + item.id}>
-          <a className="imago wow">
+        <Link legacyBehavior href={`/portfolio/` + item.id} passHref>
+          <div className="imago wow" data-wow-offset="400">
             <img src={item.projectCroppedImage} alt="image" />
             <div className="item-img-overlay"></div>
-          </a>
+          </div>
         </Link>
       </div>
-      <div className="cont wow ">
+      <div className="cont wow fadeInUp" data-wow-offset="80">
         <h6>{item.title.first} {item.title.second}</h6>
         <span>
           <Link href="">Design</Link>,
@@ -39,7 +39,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
   React.useEffect(() => {
     setTimeout(() => {
       initIsotope();
-    }, 200);
+    }, 500);
   }, []);
   return (
     <section
@@ -52,10 +52,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
           <div className="row justify-content-center">
             <div className="col-lg-8 col-md-10">
               <div className="sec-head text-center">
-                <h6 className="wow fadeIn" data-wow-delay=".5s" >
+                <h6>
                   Portfolio
                 </h6>
-                <h3 className="wow color-font">
+                <h3 className="color-font">
                   Our Recent Web Design &amp; <br /> Some Past Projects.
                 </h3>
               </div>

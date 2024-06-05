@@ -13,14 +13,12 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import "swiper/css/mousewheel";
-import removeSlashFromPagination from "../../common/removeSlashpagination";
 
 SwiperCore.use([Navigation, Pagination, Parallax, Mousewheel]);
 
 const ShowcasesFullScreen = () => {
   const [load, setLoad] = React.useState(true);
   React.useEffect(() => {
-    removeSlashFromPagination()
     setTimeout(() => {
       setLoad(false);
     });
@@ -88,7 +86,7 @@ const ShowcasesFullScreen = () => {
                       <div className="col-lg-12">
                         <div className="caption">
                           <h1>
-                            <Link
+                            <Link legacyBehavior
                               href={`/portfolio/` + slide.id}
                             >
                               <a>
@@ -106,7 +104,7 @@ const ShowcasesFullScreen = () => {
                             <div className="bord"></div>
                           </h1>
                           <div className="discover">
-                            <Link
+                            <Link legacyBehavior
                               href={`/portfolio`}
                             >
                               <a>

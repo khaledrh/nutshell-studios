@@ -12,7 +12,7 @@ const Team2 = () => {
                 Our Team
               </h6>
               <h3 className="wow color-font">
-              An original team of decision makers, creators, designers &amp; dreamers.
+                An original team of decision makers, creators, designers &amp; dreamers.
               </h3>
             </div>
           </div>
@@ -20,7 +20,7 @@ const Team2 = () => {
       </div>
       <div className="container-fluid">
         <div className="row">
-          <div className="col-lg-3 col-md-6">
+          <div className="col-lg-s-3 col-md-s-6">
             <div className="item cir md-mb50">
               <div className="img">
                 <img src="/img/team/1.jpg" alt="" />
@@ -47,7 +47,7 @@ const Team2 = () => {
                       <use xlinkHref="#circlePath1" fill="none" />
                       <text fill="#fff">
                         <textPath xlinkHref="#circlePath1">
-                          CO Founder CO Founder CO Founder
+                          CO Founder CO Founder CO Founder CO Founder
                         </textPath>
                       </text>
                     </g>
@@ -60,7 +60,8 @@ const Team2 = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6">
+
+          <div className="col-lg-s-3 col-md-s-6">
             <div className="item cir md-mb50">
               <div className="img">
                 <img src="/img/team/2.jpg" alt="" />
@@ -87,7 +88,7 @@ const Team2 = () => {
                       <use xlinkHref="#circlePath2" fill="none" />
                       <text fill="#fff">
                         <textPath xlinkHref="#circlePath2">
-                        CO Founder CO Founder CO Founder
+                          CO Founder CO Founder CO Founder CO Founder
                         </textPath>
                       </text>
                     </g>
@@ -100,8 +101,9 @@ const Team2 = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6">
-            <div className="item cir sm-mb50">
+
+          <div className="col-lg-s-3 col-md-s-6">
+            <div className="item cir md-mb50">
               <div className="img">
                 <img src="/img/team/3.jpg" alt="" />
                 <div id="circle3">
@@ -127,7 +129,7 @@ const Team2 = () => {
                       <use xlinkHref="#circlePath3" fill="none" />
                       <text fill="#fff">
                         <textPath xlinkHref="#circlePath3">
-                        CO Founder CO Founder CO Founder
+                          CO Founder CO Founder CO Founder CO Founder 
                         </textPath>
                       </text>
                     </g>
@@ -140,8 +142,9 @@ const Team2 = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6">
-            <div className="item cir">
+
+          <div className="col-lg-s-3 col-md-s-6">
+            <div className="item cir md-mb50">
               <div className="img">
                 <img src="/img/team/4.jpg" alt="" />
                 <div id="circle4">
@@ -167,7 +170,7 @@ const Team2 = () => {
                       <use xlinkHref="#circlePath4" fill="none" />
                       <text fill="#fff">
                         <textPath xlinkHref="#circlePath4">
-                        CO Founder CO Founder CO Founder
+                          CO Founder CO Founder CO Founder CO Founder 
                         </textPath>
                       </text>
                     </g>
@@ -180,6 +183,7 @@ const Team2 = () => {
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </section>

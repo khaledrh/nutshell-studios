@@ -25,7 +25,7 @@ const CallToAction = ({img}) => {
             </div>
 
             <div className="col-md-4 col-lg-3 valign">
-              <Link
+              <Link legacyBehavior
                 href={`/contact`}
               >
                 <a

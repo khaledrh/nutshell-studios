@@ -26,9 +26,9 @@ const initIsotope = () => {
   if (filtersElem) {
     filtersElem.addEventListener("click", function (event) {
       console.log('lol');
-      // if (!matchesSelector(event.target, "span")) {
-      //   return;
-      // }
+      if (!matchesSelector(event.target, "span")) {
+        return;
+      }
       var filterValue = event.target.getAttribute("data-filter");
       filterValue = filterValue ?? "*";
       console.log(filterValue);

@@ -87,7 +87,7 @@ const Works = () => {
                             <a href="#0">{item.categories}</a>
                           </h6>
                           <h4>
-                            <Link
+                            <Link legacyBehavior
                               href={`/portfolio/` + item.id}
                             >
                               {item.title.first}

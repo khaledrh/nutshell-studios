@@ -189,6 +189,7 @@ span:hover {
   background: -webkit-linear-gradient(left, #ffffff, #9d9d9d, #3f3f3f);
   background: -o-linear-gradient(left, #ffffff, #9d9d9d, #3f3f3f);
   background: linear-gradient(to right, #ffffff, #9d9d9d, #3f3f3f);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1717,7 +1718,8 @@ span:hover {
 }
 
 .butn.bord {
-  border: 1px solid #fff;
+  border: 1px solid #8e8e8e;
+
 }
 
 .butn.bord:hover {
@@ -3456,7 +3458,7 @@ span:hover {
   background: #111215;
   position: relative;
   z-index: 3;
-  overflow-x: hidden !important;
+  /* overflow-x: hidden !important; */
 }
 
 /* ====================== [ End Slider ] ====================== */
@@ -4264,6 +4266,7 @@ span:hover {
   font-weight: 700;
   text-align: center;
   margin: auto;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
@@ -4406,6 +4409,19 @@ span:hover {
   min-width: 100%;
   min-height: 100%;
   object-fit: cover;
+}
+
+.player-wrapper {
+  position: relative;
+  width: 100%;
+  /* padding-top: 56.25%; */
+  /* z-index: -1; Player ratio: 100 / (1280 / 720) */
+}
+
+.react-player {
+  position: absolute;
+  top: -450px;
+  left: -220px;
 }
 
 .js-scroll__content {
@@ -4604,6 +4620,7 @@ span:hover {
   background: -webkit-linear-gradient(left, #ffffff, #9d9d9d, #3f3f3f);
   background: -o-linear-gradient(left, #ffffff, #9d9d9d, #3f3f3f);
   background: linear-gradient(to right, #ffffff, #9d9d9d, #3f3f3f);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 40px;
@@ -8778,7 +8795,7 @@ footer .item .copy-right p a {
 
   .slider-stwo ul li .cont {
     display: block;
-    vertical-align: auto;
+    /* vertical-align: auto; */
     padding-left: 0;
     margin-top: 15px;
   }

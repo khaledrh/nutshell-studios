@@ -71,7 +71,7 @@
     "projectCroppedImage": "/img/projects/2/800x1000.jpg",
     "videoLink": "943013660",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -133,7 +133,7 @@
     "projectCroppedImage": "/img/projects/3/800x1000.jpg",
     "videoLink": "943015173",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -191,7 +191,7 @@
     "projectCroppedImage": "/img/projects/4/800x1000.jpg",
     "videoLink": "943018265",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -269,7 +269,7 @@
     "projectCroppedImage": "/img/projects/5/800x1000.jpg",
     "videoLink": "943026024",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -390,7 +390,7 @@
     "projectCroppedImage": "/img/projects/6/800x1000.jpg",
     "videoLink": "943023878",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -463,7 +463,7 @@
     "projectCroppedImage": "/img/projects/7/800x1000.jpg",
     "videoLink": "943025296",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -495,12 +495,12 @@
   },
   {
     "id": 8,
-    "title": { "first": "KFH -", "second": "Zaheb" },
+    "title": { "first": "KFH Bank", "second": " - Zaheb" },
     "projectHeaderImage": "/img/projects/8/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/8/800x1000.jpg",
     "videoLink": "943025165",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -556,12 +556,12 @@
   },
   {
     "id": 9,
-    "title": { "first": "NBE", "second": "Summer Campaign 2023" },
+    "title": { "first": "NBE | Summer ", "second": "Campaign 2023" },
     "projectHeaderImage": "/img/projects/9/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/9/800x1000.jpg",
     "videoLink": "943695812",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -679,7 +679,7 @@
     "projectCroppedImage": "/img/projects/11/800x1000.jpg",
     "videoLink": "942980619",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -735,12 +735,12 @@
   },
   {
     "id": 12,
-    "title": { "first": "Misk Foundation", "second": "92nd Saudi National Day" },
+    "title": { "first": "Misk Foundation - ", "second": "92nd Saudi National Day" },
     "projectHeaderImage": "/img/projects/12/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/12/800x1000.jpg",
     "videoLink": "942982666",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -821,7 +821,7 @@
     "projectCroppedImage": "/img/projects/13/800x1000.jpg",
     "videoLink": "943016036",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -881,12 +881,12 @@
   },
   {
     "id": 14,
-    "title": { "first": "1/2 MILLION", "second": "Sun Kissed - DC’s" },
+    "title": { "first": "1/2 MILLION - ", "second": "Sun Kissed - DC’s" },
     "projectHeaderImage": "/img/projects/14/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/14/800x1000.jpg",
     "videoLink": "943699302",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1006,12 +1006,12 @@
   },
   {
     "id": 15,
-    "title": { "first": "Misr Italia Properties - Ahlamna", "second": "Angham and Cairokee" },
+    "title": { "first": "Misr Italia Properties - Ahlamna", "second": " - Angham and Cairokee" },
     "projectHeaderImage": "/img/projects/15/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/15/800x1000.jpg",
     "videoLink": "943693687",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1048,7 +1048,7 @@
     "projectCroppedImage": "/img/projects/16/800x1000.jpg",
     "videoLink": "943026342",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1085,7 +1085,7 @@
     "projectCroppedImage": "/img/projects/17/800x1000.jpg",
     "videoLink": "943701022",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1120,9 +1120,9 @@
     "title": { "first": "Tornado", "second": "- Sudan" },
     "projectHeaderImage": "/img/projects/18/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/18/800x1000.jpg",
-    "videoLink": "943701022",
+    "videoLink": "943697399",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1159,7 +1159,7 @@
     "projectCroppedImage": "/img/projects/19/800x1000.jpg",
     "videoLink": "943017565",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1195,9 +1195,9 @@
     "title": { "first": "Naguib Selim", "second": "ft Gilan Alaa" },
     "projectHeaderImage": "/img/projects/20/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/20/800x1000.jpg",
-    "videoLink": "943701022",
+    "videoLink": "943694714",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1234,7 +1234,7 @@
     "projectCroppedImage": "/img/projects/21/800x1000.jpg",
     "videoLink": "943689218",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1272,7 +1272,7 @@
     "projectCroppedImage": "/img/projects/22/800x1000.jpg",
     "videoLink": "943686250",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1309,7 +1309,7 @@
     "projectCroppedImage": "/img/projects/23/800x1000.jpg",
     "videoLink": "943020523",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1394,7 +1394,7 @@
     "projectCroppedImage": "/img/projects/24/800x1000.jpg",
     "videoLink": "943694933",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1439,7 +1439,7 @@
     "projectCroppedImage": "/img/projects/25/800x1000.jpg",
     "videoLink": "943698449",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1484,7 +1484,7 @@
     "projectCroppedImage": "/img/projects/26/800x1000.jpg",
     "videoLink": "943696168",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1568,12 +1568,12 @@
   },
   {
     "id": 27,
-    "title": { "first": "MOSCOW X Rafiek", "second": "Msh Shayfak" },
+    "title": { "first": "MOSCOW X Rafiek", "second": "| Msh Shayfak" },
     "projectHeaderImage": "/img/projects/27/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/27/800x1000.jpg",
     "videoLink": "943694445",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1618,7 +1618,7 @@
     "projectCroppedImage": "/img/projects/28/800x1000.jpg",
     "videoLink": "943694368",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1655,7 +1655,7 @@
     "projectCroppedImage": "/img/projects/29/800x1000.jpg",
     "videoLink": "943683456",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1719,12 +1719,12 @@
   },
   {
     "id": 30,
-    "title": { "first": "Elbakyat Elsalehat l ", "second": "Medhat Saleh l Director’s Cut" },
+    "title": { "first": "Elbakyat Elsalehat |", "second": "Medhat Saleh l Director’s Cut" },
     "projectHeaderImage": "/img/projects/30/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/30/800x1000.jpg",
     "videoLink": "943686394",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1761,7 +1761,7 @@
     "projectCroppedImage": "/img/projects/31/800x1000.jpg",
     "videoLink": "943017298",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1798,7 +1798,7 @@
     "projectCroppedImage": "/img/projects/32/800x1000.jpg",
     "videoLink": "943024550",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1867,7 +1867,7 @@
     "projectCroppedImage": "/img/projects/33/800x1000.jpg",
     "videoLink": "943685267",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1904,7 +1904,7 @@
     "projectCroppedImage": "/img/projects/34/800x1000.jpg",
     "videoLink": "943697248",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1941,7 +1941,7 @@
     "projectCroppedImage": "/img/projects/35/800x1000.jpg",
     "videoLink": "943698983",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -1978,7 +1978,7 @@
     "projectCroppedImage": "/img/projects/36/800x1000.jpg",
     "videoLink": "943693389",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -2015,7 +2015,7 @@
     "projectCroppedImage": "/img/projects/37/800x1000.jpg",
     "videoLink": "943684776",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -2052,7 +2052,7 @@
     "projectCroppedImage": "/img/projects/38/800x1000.jpg",
     "videoLink": "943696850",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,
@@ -2089,7 +2089,7 @@
     "projectCroppedImage": "/img/projects/39/800x1000.jpg",
     "videoLink": "943700539",
     "date": "6 August 2022",
-    "categories": "TVC",
+    "categories": "tvc",
     "tags": [
       {
         "id": 1,

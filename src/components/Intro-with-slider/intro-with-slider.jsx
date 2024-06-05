@@ -3,26 +3,23 @@ import introData from "../../data/sections/home-intro.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
-import BackgroundVideo from 'react-background-video-player';
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import removeSlashFromPagination from "../../common/removeSlashpagination";
 import fadeWhenScroll from "../../common/fadeWhenScroll";
 
-import ModalVideo from "react-modal-video";
+// import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
+
+import ReactPlayer from 'react-player/vimeo'
 
 SwiperCore.use([Navigation, Pagination, Parallax]);
 
 const IntroWithSlider = ({ sliderRef }) => {
-  const [isOpen, setOpen] = React.useState(false);
-  const [load, setLoad] = React.useState(true);
+  // const [isOpen, setOpen] = React.useState(false);
   React.useEffect(() => {
     fadeWhenScroll(document.querySelectorAll(".fixed-slider .caption"));
     setTimeout(() => {
-      removeSlashFromPagination();
-      setLoad(false);
     }, 1000);
   }, []);
 
@@ -36,7 +33,7 @@ const IntroWithSlider = ({ sliderRef }) => {
       className="slider slider-prlx fixed-slider text-center"
     >
       <div className="swiper-container parallax-slider">
-        {!load ? (
+        
           <Swiper
             speed={1000}
             parallax={true}
@@ -82,31 +79,53 @@ const IntroWithSlider = ({ sliderRef }) => {
           >
             {introData.map((slide, index) => (
               <SwiperSlide key={slide.id} className="swiper-slide">
+                
                 <div
                   className="bg-img valign"
                   style={{ backgroundImage: `url(${slide.image})` }}
                   data-overlay-dark="6"
                 >
-                  {index === 0 && (
-                    <div className="video-intro-wrapper">
-                      <BackgroundVideo src="..\img\26.mp4" loop autoPlay />
-                    </div>
-                  )}
-                  <div className="container">
+                  
+                  <div className='player-wrapper'>
+                    
                     <div className="row justify-content-center">
-                      <div className="col-lg-8 col-md-10">
+                      {index === 0 && (  
+                      <ReactPlayer
+                        url='https://vimeo.com/943015173'
+                        className='react-player'
+                        playing={true}
+                        loop={true}
+                        volume={0}
+                        muted={true}
+                        width="1920px"
+                        height="1080px"
+                        config={{
+                          vimeo: {
+                            playerOptions: {
+                              pip: true, // Enable Picture-in-Picture
+                            },
+                            embedOptions: {
+                              pip: true,
+                            },
+                          },
+                        }}
+                      />
+                    )}
+                      <div className="col-lg-v-8 col-md-v-10">
                         <div className="caption center mt-30">
                           <h1 className="color-font">{slide.title}</h1>
+                        </div>
                           {slide?.content && <p>{slide.content}</p>}
-                          {typeof window !== "undefined" && (
+                          {/* {typeof window !== "undefined" && (
                             <ModalVideo
                               channel="vimeo"
                               isOpen={isOpen}
-                              videoId="779815075"
+                              videoId={slide.videoLink}
                               onClose={() => setOpen(false)}
                             />
                           )}
-                          <a
+                          {index !== 0 && (
+                            <a
                             className="vid"
                             onClick={(e) => {
                               e.preventDefault();
@@ -119,15 +138,18 @@ const IntroWithSlider = ({ sliderRef }) => {
                               </span>
                             </div>
                           </a>
-                        </div>
+                          )} */}
                       </div>
-                    </div>
+                    </div> 
                   </div>
+                  
+                  {/* <div className="container">
+                    
+                  </div> */}
                 </div>
               </SwiperSlide>
             ))}
           </Swiper>
-        ) : null}
         <div className="setone setwo">
           <div
             ref={navigationNextRef}
@@ -142,7 +164,6 @@ const IntroWithSlider = ({ sliderRef }) => {
             <i className="fas fa-chevron-left"></i>
           </div>
         </div>
-        {/* <div ref={paginationRef} className="swiper-pagination top botm"></div> */}
 
         <div className="social-icon">
           <a href="https://www.facebook.com/profile.php?id=100088383735706&mibextid=nW3QTL">

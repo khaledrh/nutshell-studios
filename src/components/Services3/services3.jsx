@@ -21,7 +21,7 @@ const Services3 = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col-lg-3 col-md-6 items md-mb30">
+          <div className="col-lg-s-3 col-md-s-6 items md-mb30">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-ios-monitor"></i>
@@ -32,7 +32,7 @@ const Services3 = () => {
               </p>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6 items active md-mb30">
+          <div className="col-lg-s-3 col-md-s-6 items active md-mb30">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-ios-bolt-outline"></i>
@@ -44,7 +44,7 @@ const Services3 = () => {
               </p>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6 items sm-mb30">
+          <div className="col-lg-s-3 col-md-s-6 items sm-mb30">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-cube"></i>
@@ -55,7 +55,7 @@ const Services3 = () => {
               </p>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6 items">
+          <div className="col-lg-s-3 col-md-s-6 items">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-ios-color-wand"></i>

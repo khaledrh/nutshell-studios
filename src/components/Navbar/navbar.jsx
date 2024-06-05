@@ -12,7 +12,7 @@ const Navbar = ({ lr, nr, theme }) => {
       }`}
     >
       <div className="container">
-        <Link href="/home">
+        <Link legacyBehavior href="/home">
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
@@ -44,7 +44,7 @@ const Navbar = ({ lr, nr, theme }) => {
           <ul className="navbar-nav ml-auto">
             
             <li className="nav-item">
-              <Link href="/home">
+              <Link legacyBehavior href="/home">
                 <a className="nav-link">Home</a>
               </Link>
             </li>
@@ -59,16 +59,16 @@ const Navbar = ({ lr, nr, theme }) => {
                 About
               </span>
               <div className="dropdown-menu">
-                <Link href="/about">
+                <Link legacyBehavior href="/about">
                   <a className="dropdown-item">About</a>
                 </Link>
-                <Link href="/about/#services">
+                <Link legacyBehavior href="/about/#services">
                   <a className="dropdown-item">Services</a>
                 </Link>
-                <Link href="/about/#team">
+                <Link legacyBehavior href="/about/#team">
                   <a className="dropdown-item">Our Team</a>
                 </Link>
-                <Link href="/about/#studio">
+                <Link legacyBehavior href="/about/#studio">
                   <a className="dropdown-item">Our Studio</a>
                 </Link>
                 
@@ -85,22 +85,22 @@ const Navbar = ({ lr, nr, theme }) => {
                 Works
               </span>
               <div className="dropdown-menu">
-                <Link href="/portfolio">
+                <Link legacyBehavior href="/portfolio">
                   <a className="dropdown-item">Portfolio</a>
                 </Link>
-                <Link href="/showreels">
+                <Link legacyBehavior href="/showreels">
                   <a className="dropdown-item">Showreels</a>
                 </Link>
                 
               </div>
             </li>
             <li className="nav-item">
-              <Link href="/career">
+              <Link legacyBehavior href="/career">
                 <a className="nav-link">Career</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/contact">
+              <Link legacyBehavior href="/contact">
                 <a className="nav-link">Contact</a>
               </Link>
             </li>

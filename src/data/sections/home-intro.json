@@ -3,19 +3,22 @@
         "id": 1,
         "title": "nutshell studios",
         "content": "From briefing to approved in a nutshell.",
-        "image": "/img/slid/01.jpg"
+        "image": "/img/slid/01.jpg",
+        "videoLink": ""
     },
     {
         "id": 2,
         "title": "Embracing the power of VFX",
         "content": "Providing solid VFX pipeline bringing art to life.",
-        "image": "/img/slid/02.jpg"
+        "image": "/img/slid/02.jpg",
+        "videoLink": "943018265"
     },
     {
         "id": 3,
         "title": "Best budget optimized in the market. ",
         "content": "",
-        "image": "/img/slid/03.jpg"
+        "image": "/img/slid/03.jpg",
+        "videoLink": "943015173"
     }
 ]
 
