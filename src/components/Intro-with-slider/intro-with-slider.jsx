@@ -111,7 +111,10 @@ const IntroWithSlider = ({ sliderRef }) => {
                         }}
                       />
                     )}
-                      <div className="col-lg-v-8 col-md-v-10">
+                  </div>
+                </div> 
+                    <div className="content-wrapper content">
+                      <div className="col-lg-8 col-md-10">
                         <div className="caption center mt-30">
                           <h1 className="color-font">{slide.title}</h1>
                         </div>
@@ -140,8 +143,10 @@ const IntroWithSlider = ({ sliderRef }) => {
                           </a>
                           )} */}
                       </div>
-                    </div> 
-                  </div>
+                    </div>
+                      
+                    
+                  
                   
                   {/* <div className="container">
                     
