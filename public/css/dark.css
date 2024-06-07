@@ -285,8 +285,6 @@ span:hover {
   width: 107% !important;
 }
 
-
-
 .main-color {
   color: #ffffff !important;
 }
@@ -3404,6 +3402,10 @@ span:hover {
   top: 0;
   text-align: center;
   opacity: 0.5;
+}
+
+.lookup .capt .bactxt {
+  font-size: 25vw;
 }
 
 .static {

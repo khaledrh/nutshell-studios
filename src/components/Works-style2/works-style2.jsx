@@ -28,8 +28,7 @@ const renderGridItem = (item, grid) => (
       <div className="cont wow fadeInUp" data-wow-offset="80">
         <h6>{item.title.first} {item.title.second}</h6>
         <span>
-          <Link href="">Design</Link>,
-          <Link href="">WordPress</Link>
+          <div>{item.categories}</div>
         </span>
       </div>
     </div>

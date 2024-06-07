@@ -19,7 +19,7 @@ const ProjectVideo = ({ projectVideoData }) => {
           <div className="full-width text-center pt-150 ">
             {typeof window !== "undefined" && (
               <ModalVideo
-                channel="vimeo"
+                channel={projectVideoData.videoSource}
                 autoplay
                 isOpen={isOpen}
                 videoId={projectVideoData.videoLink}

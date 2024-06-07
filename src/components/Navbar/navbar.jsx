@@ -88,8 +88,11 @@ const Navbar = ({ lr, nr, theme }) => {
                 <Link legacyBehavior href="/portfolio">
                   <a className="dropdown-item">Portfolio</a>
                 </Link>
-                <Link legacyBehavior href="/showreels">
-                  <a className="dropdown-item">Showreels</a>
+                <Link legacyBehavior href="/showcase">
+                  <a className="dropdown-item">Showcase</a>
+                </Link>
+                <Link legacyBehavior href="/lookup">
+                  <a className="dropdown-item">Lookup</a>
                 </Link>
                 
               </div>

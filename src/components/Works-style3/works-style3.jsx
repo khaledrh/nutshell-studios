@@ -31,7 +31,7 @@ const WorksStyle3 = () => {
               <div className="item-img">
 
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/1.jpg" alt="image" />
+                    <img src="/img/portfolio/1.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
 
@@ -43,7 +43,7 @@ const WorksStyle3 = () => {
               <div className="item-img">
 
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/2.jpg" alt="image" />
+                    <img src="/img/portfolio/2.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
 
@@ -58,7 +58,7 @@ const WorksStyle3 = () => {
               <div className="item-img">
 
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/3.jpg" alt="image" />
+                    <img src="/img/portfolio/3.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
 
@@ -73,7 +73,7 @@ const WorksStyle3 = () => {
               <div className="item-img">
 
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/4.jpg" alt="image" />
+                    <img src="/img/portfolio/4.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
 

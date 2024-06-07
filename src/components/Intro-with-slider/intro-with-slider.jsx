@@ -91,7 +91,7 @@ const IntroWithSlider = ({ sliderRef }) => {
                     <div className="row justify-content-center">
                       {index === 0 && (  
                       <ReactPlayer
-                        url='https://vimeo.com/943015173'
+                        url='https://vimeo.com/779815075'
                         className='react-player'
                         playing={true}
                         loop={true}

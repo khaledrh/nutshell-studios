@@ -2,9 +2,12 @@
 import React from "react";
 
 const renderGallery = (item) => (
-  <div className="col-md-3 popimg">
+  <div className="col-md-12 popimg">
     <img alt="" src={item} />
   </div>
+  // <div className="col-md-12 popimg">
+  //   <img alt="" src={item} />
+  // </div>
 );
 
 const ProjectGallery = ({ projectGalleryData }) => {

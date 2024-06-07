@@ -4,26 +4,10 @@
     "title": { "first": "Paymob", "second": "Where's my money" },
     "projectHeaderImage": "/img/projects/1/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/1/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "942792132",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -69,26 +53,10 @@
     "title": { "first": "DATA", "second": "INSIGHTS" },
     "projectHeaderImage": "/img/projects/2/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/2/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943013660",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -131,26 +99,10 @@
     "title": { "first": "Vodafone", "second": "Black Friday" },
     "projectHeaderImage": "/img/projects/3/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/3/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943015173",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -189,26 +141,10 @@
     "title": { "first": "Mcdonald’s", "second": "App" },
     "projectHeaderImage": "/img/projects/4/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/4/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943018265",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -267,26 +203,10 @@
     "title": { "first": "Blue", "second": "Vert" },
     "projectHeaderImage": "/img/projects/5/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/5/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943026024",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "Blue Vert Featuring",
       "spmList": [
@@ -388,26 +308,10 @@
     "title": { "first": "NBE", "second": "Security" },
     "projectHeaderImage": "/img/projects/6/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/6/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943023878",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -461,26 +365,10 @@
     "title": { "first": "AUB", "second": "Egypt" },
     "projectHeaderImage": "/img/projects/7/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/7/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943025296",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -498,26 +386,10 @@
     "title": { "first": "KFH Bank", "second": " - Zaheb" },
     "projectHeaderImage": "/img/projects/8/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/8/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943025165",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -559,26 +431,10 @@
     "title": { "first": "NBE | Summer ", "second": "Campaign 2023" },
     "projectHeaderImage": "/img/projects/9/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/9/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943695812",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -616,26 +472,10 @@
     "title": { "first": "Ma2oltesh la2", "second": "ft. Double Zuksh & Arsenik" },
     "projectHeaderImage": "/img/projects/10/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/10/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943688452",
     "date": "6 August 2022",
-    "categories":  "music",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
+    "categories": "music",
     "credit": {
       "content": "",
       "spmList": [
@@ -677,26 +517,10 @@
     "title": { "first": "Vodafone", "second": "World Cup" },
     "projectHeaderImage": "/img/projects/11/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/11/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "942980619",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "Watch our latest ad for Vodafone Egypt",
       "spmList": [
@@ -738,26 +562,10 @@
     "title": { "first": "Misk Foundation - ", "second": "92nd Saudi National Day" },
     "projectHeaderImage": "/img/projects/12/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/12/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "942982666",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -819,26 +627,10 @@
     "title": { "first": "WePay", "second": "" },
     "projectHeaderImage": "/img/projects/13/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/13/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943016036",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -884,26 +676,10 @@
     "title": { "first": "1/2 MILLION - ", "second": "Sun Kissed - DC’s" },
     "projectHeaderImage": "/img/projects/14/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/14/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943699302",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "1/2 million cold drinks - Sun Kissed - DC’s",
       "spmList": [
@@ -1009,26 +785,10 @@
     "title": { "first": "Misr Italia Properties - Ahlamna", "second": " - Angham and Cairokee" },
     "projectHeaderImage": "/img/projects/15/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/15/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943693687",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1046,26 +806,10 @@
     "title": { "first": "Breadfast X", "second": "Nour El Shetbini" },
     "projectHeaderImage": "/img/projects/16/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/16/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943026342",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1083,26 +827,10 @@
     "title": { "first": "Vodafone", "second": "Business" },
     "projectHeaderImage": "/img/projects/17/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/17/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943701022",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1120,26 +848,10 @@
     "title": { "first": "Tornado", "second": "- Sudan" },
     "projectHeaderImage": "/img/projects/18/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/18/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943697399",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1157,26 +869,10 @@
     "title": { "first": "NBE_125", "second": "" },
     "projectHeaderImage": "/img/projects/19/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/19/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943017565",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1195,26 +891,10 @@
     "title": { "first": "Naguib Selim", "second": "ft Gilan Alaa" },
     "projectHeaderImage": "/img/projects/20/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/20/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943694714",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1232,26 +912,10 @@
     "title": { "first": "Manzanilla", "second": "ORO" },
     "projectHeaderImage": "/img/projects/21/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/21/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943689218",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1270,26 +934,10 @@
     "title": { "first": "ELAF ", "second": "Ramadan 2024" },
     "projectHeaderImage": "/img/projects/22/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/22/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943686250",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1307,26 +955,10 @@
     "title": { "first": "Domty - ft Ahmed Dash", "second": "& Mahmoud Kahraba" },
     "projectHeaderImage": "/img/projects/23/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/23/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943020523",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1392,26 +1024,10 @@
     "title": { "first": "NBE - ", "second": "The Cafe" },
     "projectHeaderImage": "/img/projects/24/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/24/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943694933",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1437,26 +1053,10 @@
     "title": { "first": "Nice", "second": "One" },
     "projectHeaderImage": "/img/projects/25/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/25/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943698449",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1482,26 +1082,10 @@
     "title": { "first": "Orange", "second": "Cash" },
     "projectHeaderImage": "/img/projects/26/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/26/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943696168",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1571,26 +1155,10 @@
     "title": { "first": "MOSCOW X Rafiek", "second": "| Msh Shayfak" },
     "projectHeaderImage": "/img/projects/27/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/27/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943694445",
     "date": "6 August 2022",
-    "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
+    "categories": "music",
     "credit": {
       "content": "",
       "spmList": [
@@ -1616,26 +1184,10 @@
     "title": { "first": "Money Fellows -", "second": "Noisy Neighbours" },
     "projectHeaderImage": "/img/projects/28/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/28/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943694368",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1653,26 +1205,10 @@
     "title": { "first": "STC | Bahrain", "second": "National Day" },
     "projectHeaderImage": "/img/projects/29/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/29/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943683456",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1722,26 +1258,10 @@
     "title": { "first": "Elbakyat Elsalehat |", "second": "Medhat Saleh l Director’s Cut" },
     "projectHeaderImage": "/img/projects/30/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/30/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943686394",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1759,26 +1279,10 @@
     "title": { "first": "NBE", "second": "" },
     "projectHeaderImage": "/img/projects/31/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/31/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943017298",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1796,26 +1300,10 @@
     "title": { "first": "Midea", "second": "Ramadan 2024" },
     "projectHeaderImage": "/img/projects/32/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/32/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943024550",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1865,26 +1353,10 @@
     "title": { "first": "CST -", "second": "#Hosebha" },
     "projectHeaderImage": "/img/projects/33/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/33/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943685267",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1902,26 +1374,11 @@
     "title": { "first": "STC", "second": "" },
     "projectHeaderImage": "/img/projects/34/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/34/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943697248",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
+    
     "credit": {
       "content": "",
       "spmList": [
@@ -1939,26 +1396,10 @@
     "title": { "first": "TTC", "second": "CHEESE" },
     "projectHeaderImage": "/img/projects/35/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/35/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943698983",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -1976,26 +1417,10 @@
     "title": { "first": "Misr Elkheir", "second": "2024" },
     "projectHeaderImage": "/img/projects/36/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/36/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943693389",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -2013,26 +1438,10 @@
     "title": { "first": "Chipsy", "second": "X KFC" },
     "projectHeaderImage": "/img/projects/37/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/37/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943684776",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -2050,26 +1459,10 @@
     "title": { "first": "Qiddya", "second": "- Saudi" },
     "projectHeaderImage": "/img/projects/38/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/38/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943696850",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
@@ -2087,36 +1480,134 @@
     "title": { "first": "CocaCola", "second": "Demo" },
     "projectHeaderImage": "/img/projects/39/1920x1080.jpg",
     "projectCroppedImage": "/img/projects/39/800x1000.jpg",
+    "videoSource": "vimeo",
     "videoLink": "943700539",
     "date": "6 August 2022",
     "categories": "tvc",
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 2,
-        "name": "Modern",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Design",
-        "link": "#"
-      }
-    ],
     "credit": {
       "content": "",
       "spmList": [
         {
           "id": 1,
-          "name": "Written and directed by: El hamba & Sherif Doss"
+          "name": ""
         }
       ]
     },
     "gallery": [
+    ]
+  },
+  {
+    "id": 40,
+    "title": { "first": "Abo Nasab", "second": "" },
+    "projectHeaderImage": "/img/projects/40/1920x1080.jpg",
+    "projectCroppedImage": "/img/projects/40/800x1000.jpg",
+    "videoSource": "youtube",
+    "videoLink": "jj41lTKijW8",
+    "date": "6 August 2022",
+    "categories": "film",
+    "credit": {
+      "content": "",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Director: Ramy Emam"
+        },
+        {
+          "id": 2,
+          "name": "DOP: Haytham Hosny"
+        },
+        {
+          "id": 3,
+          "name": "DOP: Tarek Hefny"
+        },
+        {
+          "id": 4,
+          "name": "Written by: Ayman Wattar"
+        },
+        {
+          "id": 5,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 6,
+          "name": "Produced by: Magic Beans"
+        },
+        {
+          "id": 7,
+          "name": "Producer : Mohamed Ehab"
+        },
+        {
+          "id": 8,
+          "name": "Senior Post Producer : Basma Goma Badr"
+        },
+        {
+          "id": 9,
+          "name": "Post Producers: Tamer Helmy - Ashraf Ehab"
+        },
+        {
+          "id": 10,
+          "name": "◦◦◦" 
+        },
+        {
+          "id": 11,
+          "name": "Post Production: The Barber Shop"
+        },
+        {
+          "id": 12,
+          "name": "Editor: Mohsen Abdel Wahab"
+        },
+        {
+          "id": 13,
+          "name": "Colorist: Mahmoud Ali"
+        },
+        {
+          "id": 14,
+          "name": "Post Producer: Nour Solimann"
+        },
+        {
+          "id": 15,
+          "name": "◦◦◦"
+        },
+        {
+          "id": 16,
+          "name": "VFX & titles : nutshell studios"
+        },
+        {
+          "id": 17,
+          "name": "VFX supervisor: Hesham Elmohamady"
+        },
+        {
+          "id": 18,
+          "name": "Head of compositing: Anas Osama"
+        },
+        {
+          "id": 19,
+          "name": "Compositing supervisor: Moaz Hesham"
+        },
+        {
+          "id": 20,
+          "name": "Andrew Louis"
+        },
+        {
+          "id": 21,
+          "name": "CG Supervisor : Ahmed Shaaban"
+        },
+        {
+          "id": 22,
+          "name": "Head of Post Production: Islam abdelmoniem"
+        },
+        {
+          "id": 23,
+          "name": "VFX Producer: Asser Abd Al Moniam"
+        }
+      ]
+    },
+    "gallery": [
+      "/img/projects/40/1.jpg",
+      "/img/projects/40/2.jpg",
+      "/img/projects/40/3.jpg",
+      "/img/projects/40/4.jpg",
+      "/img/projects/40/5.jpg"
     ]
   }
 
