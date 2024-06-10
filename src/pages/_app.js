@@ -16,19 +16,23 @@ function MyApp({ Component, pageProps }) {
       <LoadingScreen />
       <Component {...pageProps} />
       <ScrollToTop />
-      <Script id="wow" src="/js/wow.min.js"></Script>
+      <Script id="wow" src="/js/wow.min.js" strategy="beforeInteractive"></Script>
       <Script
         strategy="beforeInteractive"
         id="splitting"
         src="/js/splitting.min.js"
       ></Script>
-      <Script id="simpleParallax" src="/js/simpleParallax.min.js"></Script>
+      <Script id="simpleParallax" src="/js/simpleParallax.min.js" strategy="beforeInteractive"></Script>
       <Script
         id="isotope"
         strategy="beforeInteractive"
         src="/js/isotope.pkgd.min.js"
       ></Script>
-      <Script id="wowInit" strategy="lazyOnload">{`new WOW().init();`}</Script>
+      <Script id="imagesLoaded" strategy="beforeInteractive" src="/js/imagesloaded.pkgd.min.js"></Script>
+
+      <Script id="wowInit" strategy="lazyOnload">
+        new WOW().init();
+      </Script>
 
     </>
   );

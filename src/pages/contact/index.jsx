@@ -13,15 +13,14 @@ const Contact = () => {
   React.useEffect(() => {
     document.querySelector("body").classList.add("contact-page");
 
-    var navbar = navbarRef.current,
-      logo = logoRef.current;
-    if (window.pageYOffset > 300) {
+    var navbar = navbarRef.current;
+    if (window.scrollY > 300) {
       navbar.classList.add("nav-scroll");
     } else {
       navbar.classList.remove("nav-scroll");
     }
     window.addEventListener("scroll", () => {
-      if (window.pageYOffset > 300) {
+      if (window.scrollY > 300) {
         navbar.classList.add("nav-scroll");
       } else {
         navbar.classList.remove("nav-scroll");

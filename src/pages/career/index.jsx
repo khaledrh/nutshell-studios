@@ -11,24 +11,24 @@ const Contact = () => {
   const logoRef = React.useRef(null);
 
   React.useEffect(() => {
-    document.querySelector("body").classList.add("contact-page");
+    document.querySelector("body").classList.add("career-page");
 
     var navbar = navbarRef.current,
       logo = logoRef.current;
-    if (window.pageYOffset > 300) {
+    if (window.scrollY > 300) {
       navbar.classList.add("nav-scroll");
     } else {
       navbar.classList.remove("nav-scroll");
     }
     window.addEventListener("scroll", () => {
-      if (window.pageYOffset > 300) {
+      if (window.scrollY > 300) {
         navbar.classList.add("nav-scroll");
       } else {
         navbar.classList.remove("nav-scroll");
       }
     });
     return () => {
-      document.querySelector("body").classList.remove("contact-page");
+      document.querySelector("body").classList.remove("career-page");
     };
   }, [navbarRef]);
 

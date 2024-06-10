@@ -1,6 +1,8 @@
+
 const initIsotope = () => {
   var grid = document.querySelectorAll(".gallery");
   var iso;
+  imagesLoaded( grid, function() {
   if (grid.length >= 1) {
     grid.forEach((item) => {
       iso = new Isotope(item, {
@@ -8,24 +10,28 @@ const initIsotope = () => {
       });
     });
   }
+});
 
   var gridMons = document.querySelectorAll(".gallery-mons");
-  if (gridMons.length >= 1) {
-    gridMons.forEach((item) => {
-      iso = new Isotope(item, {
-        itemSelector: ".items",
-        masonry: {
-          columnWidth: ".width2",
-        },
+  imagesLoaded( gridMons, function() {
+    if (gridMons.length >= 1) {
+      gridMons.forEach((item) => {
+        iso = new Isotope( item, {
+          itemSelector: '.items',
+          percentPosition: true,
+          masonry: {
+            columnWidth: '.width2'
+          }
+        });
       });
-    });
-  }
+    }
+  });
+
 
   var filtersElem = document.querySelector(".filtering");
 
   if (filtersElem) {
     filtersElem.addEventListener("click", function (event) {
-      console.log('lol');
       if (!matchesSelector(event.target, "span")) {
         return;
       }

@@ -1,13 +1,23 @@
-const loadingPace = () => {
+const loadingPace = (onVideoStart) => {
+  const handlePaceDone = () => {
+    if (onVideoStart===true) {
+      document.querySelector("#preloader").classList.add("isdone");
+      document.querySelector(".loading").classList.add("isdone");
+    }
+    
+  };
  
+  if(onVideoStart){
+    console.log("pace start");
+  }
+
   Pace.on("start", function () {
     document.querySelector("#preloader").classList.remove("isdone");
     document.querySelector(".loading").classList.remove("isdone");
   });
-  Pace.on("done", function () {
+  Pace.on("done", () => {
     document.querySelector("#preloader").classList.add("isdone");
     document.querySelector(".loading").classList.add("isdone");
-    
   });
 
   if (document.querySelector("body").classList.contains("pace-done")) {

@@ -15,6 +15,7 @@ const renderGridItem = (item, grid) => (
           : "col-12"
         } 
         items ${item.categories}`}
+        
       key={item.id}
     >
       <div className="item-img">

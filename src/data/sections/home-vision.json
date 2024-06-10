@@ -3,7 +3,7 @@
   "smallTitle": "About Us",
   "title": "Our Vision",
   "content": "Exploring the full potential of VFX, Transitioning between the different realms of digital creation delivering results that exceeds expectations.",
-  "image": "/img/feat.jpg",
+  "image": "/img/feat-tmp.jpg",
   "stauts": [
     { "id": 1, "number": "3", "letter": "K", "stautsName": "Happy Clients" },
     { "id": 2, "number": "14", "letter": "K", "stautsName": "Success Projects" }

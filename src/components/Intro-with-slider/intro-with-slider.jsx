@@ -12,16 +12,19 @@ import fadeWhenScroll from "../../common/fadeWhenScroll";
 import "react-modal-video/css/modal-video.css";
 
 import ReactPlayer from 'react-player/vimeo'
+import loadingPace from "../../common/loadingPace";
 
 SwiperCore.use([Navigation, Pagination, Parallax]);
 
 const IntroWithSlider = ({ sliderRef }) => {
-  // const [isOpen, setOpen] = React.useState(false);
+  const [videoStarted, setVideoStarted] = React.useState(false);
   React.useEffect(() => {
     fadeWhenScroll(document.querySelectorAll(".fixed-slider .caption"));
-    setTimeout(() => {
-    }, 1000);
-  }, []);
+    loadingPace(() => videoStarted);
+    if(videoStarted === true){
+      console.log("started");
+    }
+  }, [videoStarted]);
 
   const navigationPrevRef = React.useRef(null);
   const navigationNextRef = React.useRef(null);
@@ -92,13 +95,14 @@ const IntroWithSlider = ({ sliderRef }) => {
                       {index === 0 && (  
                       <ReactPlayer
                         url='https://vimeo.com/779815075'
-                        className='react-player'
+                        className='react-player player-ready'
                         playing={true}
                         loop={true}
                         volume={0}
                         muted={true}
                         width="1920px"
                         height="1080px"
+                        onStart={()=>setVideoStarted(true)}
                         config={{
                           vimeo: {
                             playerOptions: {

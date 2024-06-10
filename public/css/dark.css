@@ -173,6 +173,10 @@ span:hover {
   max-width: 1200px;
 }
 
+.container-art {
+  max-width: 1500px;
+}
+
 .custom-font {
   font-family: "Poppins", sans-serif;
 }
