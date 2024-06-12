@@ -7,15 +7,18 @@ const LoadingScreen = () => {
   React.useEffect(() => {
     let bodyEl = document.querySelector("body");
     if (appData.showLoading) {
-      loadingPace();
       
+
+      loadingPace();
+
       if (bodyEl.classList.contains("hideX")) {
         bodyEl.classList.remove("hideX");
       }
     } else {
       bodyEl.classList.add("hideX");
     }
-  });
+  }, []);
+
   return (
     <>
       <div className={`${appData.showLoading === true ? "showX" : "hideX"}`}>
@@ -36,9 +39,7 @@ const LoadingScreen = () => {
           strategy="beforeInteractive"
           src="/js/pace.min.js"
         ></Script>
-      ) : (
-        ""
-      )}
+      ) : null}
     </>
   );
 };

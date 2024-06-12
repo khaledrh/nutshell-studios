@@ -11,6 +11,15 @@ const loadingPace = (onVideoStart) => {
     console.log("pace start");
   }
 
+  window.paceOptions = {
+    ajax: false,
+    document: false,
+    eventLag: false,
+    elements: {
+      selectors: ['.my-page']
+    }
+  };
+
   Pace.on("start", function () {
     document.querySelector("#preloader").classList.remove("isdone");
     document.querySelector(".loading").classList.remove("isdone");

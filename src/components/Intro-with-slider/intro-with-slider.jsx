@@ -102,6 +102,7 @@ const IntroWithSlider = ({ sliderRef }) => {
                         muted={true}
                         width="1920px"
                         height="1080px"
+                        playsinline={true}
                         onStart={()=>setVideoStarted(true)}
                         config={{
                           vimeo: {

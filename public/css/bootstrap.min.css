@@ -738,6 +738,14 @@ pre code {
   padding-left: 15px;
 }
 
+.col-md-50-3{
+  position: relative;
+  width: 50%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .col-lg-v-8,
 .col-md-v-10 {
   position: relative;
@@ -1269,6 +1277,13 @@ pre code {
   }
 
   .col-md-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+  .col-md-50-3 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
